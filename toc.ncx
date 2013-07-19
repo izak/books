@@ -1,0 +1,5765 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="http://www.gutenberg.org/ebooks/18269" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="EpubMaker 0.3.20a6 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Pascal's Pensées</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>PASCAL'S PENSÉES</text>
+      </navLabel>
+      <content src="18269-h-0.html#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>INTRODUCTION</text>
+      </navLabel>
+      <content src="18269-h-0.html#pgepubid00001"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="18269-h-0.html#pgepubid00002"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>CONTENTS</text>
+      </navLabel>
+      <content src="18269-h-0.html#pgepubid00003"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>SECTION I</text>
+      </navLabel>
+      <content src="18269-h-0.html#pgepubid00004"/>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>THOUGHTS ON MIND AND ON STYLE</text>
+        </navLabel>
+        <content src="18269-h-0.html#pgepubid00005"/>
+        <navPoint id="np-7" playOrder="7">
+          <navLabel>
+            <text>1</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00006"/>
+        </navPoint>
+        <navPoint id="np-8" playOrder="8">
+          <navLabel>
+            <text>2</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00007"/>
+        </navPoint>
+        <navPoint id="np-9" playOrder="9">
+          <navLabel>
+            <text>3</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00008"/>
+        </navPoint>
+        <navPoint id="np-10" playOrder="10">
+          <navLabel>
+            <text>4</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00009"/>
+        </navPoint>
+        <navPoint id="np-11" playOrder="11">
+          <navLabel>
+            <text>5</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00010"/>
+        </navPoint>
+        <navPoint id="np-12" playOrder="12">
+          <navLabel>
+            <text>6</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00011"/>
+        </navPoint>
+        <navPoint id="np-13" playOrder="13">
+          <navLabel>
+            <text>7</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00012"/>
+        </navPoint>
+        <navPoint id="np-14" playOrder="14">
+          <navLabel>
+            <text>8</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00013"/>
+        </navPoint>
+        <navPoint id="np-15" playOrder="15">
+          <navLabel>
+            <text>9</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00014"/>
+        </navPoint>
+        <navPoint id="np-16" playOrder="16">
+          <navLabel>
+            <text>10</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00015"/>
+        </navPoint>
+        <navPoint id="np-17" playOrder="17">
+          <navLabel>
+            <text>11</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00016"/>
+        </navPoint>
+        <navPoint id="np-18" playOrder="18">
+          <navLabel>
+            <text>12</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00017"/>
+        </navPoint>
+        <navPoint id="np-19" playOrder="19">
+          <navLabel>
+            <text>13</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00018"/>
+        </navPoint>
+        <navPoint id="np-20" playOrder="20">
+          <navLabel>
+            <text>14</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00019"/>
+        </navPoint>
+        <navPoint id="np-21" playOrder="21">
+          <navLabel>
+            <text>15</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00020"/>
+        </navPoint>
+        <navPoint id="np-22" playOrder="22">
+          <navLabel>
+            <text>16</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00021"/>
+        </navPoint>
+        <navPoint id="np-23" playOrder="23">
+          <navLabel>
+            <text>17</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00022"/>
+        </navPoint>
+        <navPoint id="np-24" playOrder="24">
+          <navLabel>
+            <text>18</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00023"/>
+        </navPoint>
+        <navPoint id="np-25" playOrder="25">
+          <navLabel>
+            <text>19</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00024"/>
+        </navPoint>
+        <navPoint id="np-26" playOrder="26">
+          <navLabel>
+            <text>20</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00025"/>
+        </navPoint>
+        <navPoint id="np-27" playOrder="27">
+          <navLabel>
+            <text>21</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00026"/>
+        </navPoint>
+        <navPoint id="np-28" playOrder="28">
+          <navLabel>
+            <text>22</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00027"/>
+        </navPoint>
+        <navPoint id="np-29" playOrder="29">
+          <navLabel>
+            <text>23</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00028"/>
+        </navPoint>
+        <navPoint id="np-30" playOrder="30">
+          <navLabel>
+            <text>24</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00029"/>
+        </navPoint>
+        <navPoint id="np-31" playOrder="31">
+          <navLabel>
+            <text>25</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00030"/>
+        </navPoint>
+        <navPoint id="np-32" playOrder="32">
+          <navLabel>
+            <text>26</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00031"/>
+        </navPoint>
+        <navPoint id="np-33" playOrder="33">
+          <navLabel>
+            <text>27</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00032"/>
+        </navPoint>
+        <navPoint id="np-34" playOrder="34">
+          <navLabel>
+            <text>28</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00033"/>
+        </navPoint>
+        <navPoint id="np-35" playOrder="35">
+          <navLabel>
+            <text>29</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00034"/>
+        </navPoint>
+        <navPoint id="np-36" playOrder="36">
+          <navLabel>
+            <text>30</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00035"/>
+        </navPoint>
+        <navPoint id="np-37" playOrder="37">
+          <navLabel>
+            <text>31</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00036"/>
+        </navPoint>
+        <navPoint id="np-38" playOrder="38">
+          <navLabel>
+            <text>32</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00037"/>
+        </navPoint>
+        <navPoint id="np-39" playOrder="39">
+          <navLabel>
+            <text>33</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00038"/>
+        </navPoint>
+        <navPoint id="np-40" playOrder="40">
+          <navLabel>
+            <text>34</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00039"/>
+        </navPoint>
+        <navPoint id="np-41" playOrder="41">
+          <navLabel>
+            <text>35</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00040"/>
+        </navPoint>
+        <navPoint id="np-42" playOrder="42">
+          <navLabel>
+            <text>36</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00041"/>
+        </navPoint>
+        <navPoint id="np-43" playOrder="43">
+          <navLabel>
+            <text>37</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00042"/>
+        </navPoint>
+        <navPoint id="np-44" playOrder="44">
+          <navLabel>
+            <text>38</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00043"/>
+        </navPoint>
+        <navPoint id="np-45" playOrder="45">
+          <navLabel>
+            <text>39</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00044"/>
+        </navPoint>
+        <navPoint id="np-46" playOrder="46">
+          <navLabel>
+            <text>40</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00045"/>
+        </navPoint>
+        <navPoint id="np-47" playOrder="47">
+          <navLabel>
+            <text>41</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00046"/>
+        </navPoint>
+        <navPoint id="np-48" playOrder="48">
+          <navLabel>
+            <text>42</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00047"/>
+        </navPoint>
+        <navPoint id="np-49" playOrder="49">
+          <navLabel>
+            <text>43</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00048"/>
+        </navPoint>
+        <navPoint id="np-50" playOrder="50">
+          <navLabel>
+            <text>44</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00049"/>
+        </navPoint>
+        <navPoint id="np-51" playOrder="51">
+          <navLabel>
+            <text>45</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00050"/>
+        </navPoint>
+        <navPoint id="np-52" playOrder="52">
+          <navLabel>
+            <text>46</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00051"/>
+        </navPoint>
+        <navPoint id="np-53" playOrder="53">
+          <navLabel>
+            <text>47</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00052"/>
+        </navPoint>
+        <navPoint id="np-54" playOrder="54">
+          <navLabel>
+            <text>48</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00053"/>
+        </navPoint>
+        <navPoint id="np-55" playOrder="55">
+          <navLabel>
+            <text>49</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00054"/>
+        </navPoint>
+        <navPoint id="np-56" playOrder="56">
+          <navLabel>
+            <text>50</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00055"/>
+        </navPoint>
+        <navPoint id="np-57" playOrder="57">
+          <navLabel>
+            <text>51</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00056"/>
+        </navPoint>
+        <navPoint id="np-58" playOrder="58">
+          <navLabel>
+            <text>52</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00057"/>
+        </navPoint>
+        <navPoint id="np-59" playOrder="59">
+          <navLabel>
+            <text>53</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00058"/>
+        </navPoint>
+        <navPoint id="np-60" playOrder="60">
+          <navLabel>
+            <text>54</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00059"/>
+        </navPoint>
+        <navPoint id="np-61" playOrder="61">
+          <navLabel>
+            <text>55</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00060"/>
+        </navPoint>
+        <navPoint id="np-62" playOrder="62">
+          <navLabel>
+            <text>56</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00061"/>
+        </navPoint>
+        <navPoint id="np-63" playOrder="63">
+          <navLabel>
+            <text>57</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00062"/>
+        </navPoint>
+        <navPoint id="np-64" playOrder="64">
+          <navLabel>
+            <text>58</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00063"/>
+        </navPoint>
+        <navPoint id="np-65" playOrder="65">
+          <navLabel>
+            <text>59</text>
+          </navLabel>
+          <content src="18269-h-0.html#pgepubid00064"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-66" playOrder="66">
+      <navLabel>
+        <text>SECTION II</text>
+      </navLabel>
+      <content src="18269-h-1.html#pgepubid00065"/>
+      <navPoint id="np-67" playOrder="67">
+        <navLabel>
+          <text>THE MISERY OF MAN WITHOUT GOD</text>
+        </navLabel>
+        <content src="18269-h-1.html#pgepubid00066"/>
+        <navPoint id="np-68" playOrder="68">
+          <navLabel>
+            <text>60</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00067"/>
+        </navPoint>
+        <navPoint id="np-69" playOrder="69">
+          <navLabel>
+            <text>61</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00068"/>
+        </navPoint>
+        <navPoint id="np-70" playOrder="70">
+          <navLabel>
+            <text>62</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00069"/>
+        </navPoint>
+        <navPoint id="np-71" playOrder="71">
+          <navLabel>
+            <text>63</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00070"/>
+        </navPoint>
+        <navPoint id="np-72" playOrder="72">
+          <navLabel>
+            <text>64</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00071"/>
+        </navPoint>
+        <navPoint id="np-73" playOrder="73">
+          <navLabel>
+            <text>65</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00072"/>
+        </navPoint>
+        <navPoint id="np-74" playOrder="74">
+          <navLabel>
+            <text>66</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00073"/>
+        </navPoint>
+        <navPoint id="np-75" playOrder="75">
+          <navLabel>
+            <text>67</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00074"/>
+        </navPoint>
+        <navPoint id="np-76" playOrder="76">
+          <navLabel>
+            <text>68</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00075"/>
+        </navPoint>
+        <navPoint id="np-77" playOrder="77">
+          <navLabel>
+            <text>69</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00076"/>
+        </navPoint>
+        <navPoint id="np-78" playOrder="78">
+          <navLabel>
+            <text>70</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00077"/>
+        </navPoint>
+        <navPoint id="np-79" playOrder="79">
+          <navLabel>
+            <text>71</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00078"/>
+        </navPoint>
+        <navPoint id="np-80" playOrder="80">
+          <navLabel>
+            <text>72</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00079"/>
+        </navPoint>
+        <navPoint id="np-81" playOrder="81">
+          <navLabel>
+            <text>73</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00080"/>
+        </navPoint>
+        <navPoint id="np-82" playOrder="82">
+          <navLabel>
+            <text>74</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00081"/>
+        </navPoint>
+        <navPoint id="np-83" playOrder="83">
+          <navLabel>
+            <text>75</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00082"/>
+        </navPoint>
+        <navPoint id="np-84" playOrder="84">
+          <navLabel>
+            <text>76</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00083"/>
+        </navPoint>
+        <navPoint id="np-85" playOrder="85">
+          <navLabel>
+            <text>77</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00084"/>
+        </navPoint>
+        <navPoint id="np-86" playOrder="86">
+          <navLabel>
+            <text>78</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00085"/>
+        </navPoint>
+        <navPoint id="np-87" playOrder="87">
+          <navLabel>
+            <text>79</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00086"/>
+        </navPoint>
+        <navPoint id="np-88" playOrder="88">
+          <navLabel>
+            <text>80</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00087"/>
+        </navPoint>
+        <navPoint id="np-89" playOrder="89">
+          <navLabel>
+            <text>81</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00088"/>
+        </navPoint>
+        <navPoint id="np-90" playOrder="90">
+          <navLabel>
+            <text>82</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00089"/>
+        </navPoint>
+        <navPoint id="np-91" playOrder="91">
+          <navLabel>
+            <text>83</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00090"/>
+        </navPoint>
+        <navPoint id="np-92" playOrder="92">
+          <navLabel>
+            <text>84</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00091"/>
+        </navPoint>
+        <navPoint id="np-93" playOrder="93">
+          <navLabel>
+            <text>85</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00092"/>
+        </navPoint>
+        <navPoint id="np-94" playOrder="94">
+          <navLabel>
+            <text>86</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00093"/>
+        </navPoint>
+        <navPoint id="np-95" playOrder="95">
+          <navLabel>
+            <text>87</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00094"/>
+        </navPoint>
+        <navPoint id="np-96" playOrder="96">
+          <navLabel>
+            <text>88</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00095"/>
+        </navPoint>
+        <navPoint id="np-97" playOrder="97">
+          <navLabel>
+            <text>89</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00096"/>
+        </navPoint>
+        <navPoint id="np-98" playOrder="98">
+          <navLabel>
+            <text>90</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00097"/>
+        </navPoint>
+        <navPoint id="np-99" playOrder="99">
+          <navLabel>
+            <text>91</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00098"/>
+        </navPoint>
+        <navPoint id="np-100" playOrder="100">
+          <navLabel>
+            <text>92</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00099"/>
+        </navPoint>
+        <navPoint id="np-101" playOrder="101">
+          <navLabel>
+            <text>93</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00100"/>
+        </navPoint>
+        <navPoint id="np-102" playOrder="102">
+          <navLabel>
+            <text>94</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00101"/>
+        </navPoint>
+        <navPoint id="np-103" playOrder="103">
+          <navLabel>
+            <text>95</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00102"/>
+        </navPoint>
+        <navPoint id="np-104" playOrder="104">
+          <navLabel>
+            <text>96</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00103"/>
+        </navPoint>
+        <navPoint id="np-105" playOrder="105">
+          <navLabel>
+            <text>97</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00104"/>
+        </navPoint>
+        <navPoint id="np-106" playOrder="106">
+          <navLabel>
+            <text>98</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00105"/>
+        </navPoint>
+        <navPoint id="np-107" playOrder="107">
+          <navLabel>
+            <text>99</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00106"/>
+        </navPoint>
+        <navPoint id="np-108" playOrder="108">
+          <navLabel>
+            <text>100</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00107"/>
+        </navPoint>
+        <navPoint id="np-109" playOrder="109">
+          <navLabel>
+            <text>101</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00108"/>
+        </navPoint>
+        <navPoint id="np-110" playOrder="110">
+          <navLabel>
+            <text>102</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00109"/>
+        </navPoint>
+        <navPoint id="np-111" playOrder="111">
+          <navLabel>
+            <text>103</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00110"/>
+        </navPoint>
+        <navPoint id="np-112" playOrder="112">
+          <navLabel>
+            <text>104</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00111"/>
+        </navPoint>
+        <navPoint id="np-113" playOrder="113">
+          <navLabel>
+            <text>105</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00112"/>
+        </navPoint>
+        <navPoint id="np-114" playOrder="114">
+          <navLabel>
+            <text>106</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00113"/>
+        </navPoint>
+        <navPoint id="np-115" playOrder="115">
+          <navLabel>
+            <text>107</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00114"/>
+        </navPoint>
+        <navPoint id="np-116" playOrder="116">
+          <navLabel>
+            <text>108</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00115"/>
+        </navPoint>
+        <navPoint id="np-117" playOrder="117">
+          <navLabel>
+            <text>109</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00116"/>
+        </navPoint>
+        <navPoint id="np-118" playOrder="118">
+          <navLabel>
+            <text>110</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00117"/>
+        </navPoint>
+        <navPoint id="np-119" playOrder="119">
+          <navLabel>
+            <text>111</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00118"/>
+        </navPoint>
+        <navPoint id="np-120" playOrder="120">
+          <navLabel>
+            <text>112</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00119"/>
+        </navPoint>
+        <navPoint id="np-121" playOrder="121">
+          <navLabel>
+            <text>113</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00120"/>
+        </navPoint>
+        <navPoint id="np-122" playOrder="122">
+          <navLabel>
+            <text>114</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00121"/>
+        </navPoint>
+        <navPoint id="np-123" playOrder="123">
+          <navLabel>
+            <text>115</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00122"/>
+        </navPoint>
+        <navPoint id="np-124" playOrder="124">
+          <navLabel>
+            <text>116</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00123"/>
+        </navPoint>
+        <navPoint id="np-125" playOrder="125">
+          <navLabel>
+            <text>117</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00124"/>
+        </navPoint>
+        <navPoint id="np-126" playOrder="126">
+          <navLabel>
+            <text>118</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00125"/>
+        </navPoint>
+        <navPoint id="np-127" playOrder="127">
+          <navLabel>
+            <text>119</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00126"/>
+        </navPoint>
+        <navPoint id="np-128" playOrder="128">
+          <navLabel>
+            <text>120</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00127"/>
+        </navPoint>
+        <navPoint id="np-129" playOrder="129">
+          <navLabel>
+            <text>121</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00128"/>
+        </navPoint>
+        <navPoint id="np-130" playOrder="130">
+          <navLabel>
+            <text>122</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00129"/>
+        </navPoint>
+        <navPoint id="np-131" playOrder="131">
+          <navLabel>
+            <text>123</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00130"/>
+        </navPoint>
+        <navPoint id="np-132" playOrder="132">
+          <navLabel>
+            <text>124</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00131"/>
+        </navPoint>
+        <navPoint id="np-133" playOrder="133">
+          <navLabel>
+            <text>125</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00132"/>
+        </navPoint>
+        <navPoint id="np-134" playOrder="134">
+          <navLabel>
+            <text>126</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00133"/>
+        </navPoint>
+        <navPoint id="np-135" playOrder="135">
+          <navLabel>
+            <text>127</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00134"/>
+        </navPoint>
+        <navPoint id="np-136" playOrder="136">
+          <navLabel>
+            <text>128</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00135"/>
+        </navPoint>
+        <navPoint id="np-137" playOrder="137">
+          <navLabel>
+            <text>129</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00136"/>
+        </navPoint>
+        <navPoint id="np-138" playOrder="138">
+          <navLabel>
+            <text>130</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00137"/>
+        </navPoint>
+        <navPoint id="np-139" playOrder="139">
+          <navLabel>
+            <text>131</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00138"/>
+        </navPoint>
+        <navPoint id="np-140" playOrder="140">
+          <navLabel>
+            <text>132</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00139"/>
+        </navPoint>
+        <navPoint id="np-141" playOrder="141">
+          <navLabel>
+            <text>133</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00140"/>
+        </navPoint>
+        <navPoint id="np-142" playOrder="142">
+          <navLabel>
+            <text>134</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00141"/>
+        </navPoint>
+        <navPoint id="np-143" playOrder="143">
+          <navLabel>
+            <text>135</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00142"/>
+        </navPoint>
+        <navPoint id="np-144" playOrder="144">
+          <navLabel>
+            <text>136</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00143"/>
+        </navPoint>
+        <navPoint id="np-145" playOrder="145">
+          <navLabel>
+            <text>137</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00144"/>
+        </navPoint>
+        <navPoint id="np-146" playOrder="146">
+          <navLabel>
+            <text>138</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00145"/>
+        </navPoint>
+        <navPoint id="np-147" playOrder="147">
+          <navLabel>
+            <text>139</text>
+          </navLabel>
+          <content src="18269-h-1.html#pgepubid00146"/>
+        </navPoint>
+        <navPoint id="np-148" playOrder="148">
+          <navLabel>
+            <text>140</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00147"/>
+        </navPoint>
+        <navPoint id="np-149" playOrder="149">
+          <navLabel>
+            <text>141</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00148"/>
+        </navPoint>
+        <navPoint id="np-150" playOrder="150">
+          <navLabel>
+            <text>142</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00149"/>
+        </navPoint>
+        <navPoint id="np-151" playOrder="151">
+          <navLabel>
+            <text>143</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00150"/>
+        </navPoint>
+        <navPoint id="np-152" playOrder="152">
+          <navLabel>
+            <text>144</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00151"/>
+        </navPoint>
+        <navPoint id="np-153" playOrder="153">
+          <navLabel>
+            <text>145</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00152"/>
+        </navPoint>
+        <navPoint id="np-154" playOrder="154">
+          <navLabel>
+            <text>146</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00153"/>
+        </navPoint>
+        <navPoint id="np-155" playOrder="155">
+          <navLabel>
+            <text>147</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00154"/>
+        </navPoint>
+        <navPoint id="np-156" playOrder="156">
+          <navLabel>
+            <text>148</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00155"/>
+        </navPoint>
+        <navPoint id="np-157" playOrder="157">
+          <navLabel>
+            <text>149</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00156"/>
+        </navPoint>
+        <navPoint id="np-158" playOrder="158">
+          <navLabel>
+            <text>150</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00157"/>
+        </navPoint>
+        <navPoint id="np-159" playOrder="159">
+          <navLabel>
+            <text>151</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00158"/>
+        </navPoint>
+        <navPoint id="np-160" playOrder="160">
+          <navLabel>
+            <text>152</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00159"/>
+        </navPoint>
+        <navPoint id="np-161" playOrder="161">
+          <navLabel>
+            <text>153</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00160"/>
+        </navPoint>
+        <navPoint id="np-162" playOrder="162">
+          <navLabel>
+            <text>154</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00161"/>
+        </navPoint>
+        <navPoint id="np-163" playOrder="163">
+          <navLabel>
+            <text>155</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00162"/>
+        </navPoint>
+        <navPoint id="np-164" playOrder="164">
+          <navLabel>
+            <text>156</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00163"/>
+        </navPoint>
+        <navPoint id="np-165" playOrder="165">
+          <navLabel>
+            <text>157</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00164"/>
+        </navPoint>
+        <navPoint id="np-166" playOrder="166">
+          <navLabel>
+            <text>158</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00165"/>
+        </navPoint>
+        <navPoint id="np-167" playOrder="167">
+          <navLabel>
+            <text>159</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00166"/>
+        </navPoint>
+        <navPoint id="np-168" playOrder="168">
+          <navLabel>
+            <text>160</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00167"/>
+        </navPoint>
+        <navPoint id="np-169" playOrder="169">
+          <navLabel>
+            <text>161</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00168"/>
+        </navPoint>
+        <navPoint id="np-170" playOrder="170">
+          <navLabel>
+            <text>162</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00169"/>
+        </navPoint>
+        <navPoint id="np-171" playOrder="171">
+          <navLabel>
+            <text>163</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00170"/>
+        </navPoint>
+        <navPoint id="np-172" playOrder="172">
+          <navLabel>
+            <text>164</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00171"/>
+        </navPoint>
+        <navPoint id="np-173" playOrder="173">
+          <navLabel>
+            <text>165</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00172"/>
+        </navPoint>
+        <navPoint id="np-174" playOrder="174">
+          <navLabel>
+            <text>166</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00173"/>
+        </navPoint>
+        <navPoint id="np-175" playOrder="175">
+          <navLabel>
+            <text>167</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00174"/>
+        </navPoint>
+        <navPoint id="np-176" playOrder="176">
+          <navLabel>
+            <text>168</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00175"/>
+        </navPoint>
+        <navPoint id="np-177" playOrder="177">
+          <navLabel>
+            <text>169</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00176"/>
+        </navPoint>
+        <navPoint id="np-178" playOrder="178">
+          <navLabel>
+            <text>170</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00177"/>
+        </navPoint>
+        <navPoint id="np-179" playOrder="179">
+          <navLabel>
+            <text>171</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00178"/>
+        </navPoint>
+        <navPoint id="np-180" playOrder="180">
+          <navLabel>
+            <text>172</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00179"/>
+        </navPoint>
+        <navPoint id="np-181" playOrder="181">
+          <navLabel>
+            <text>173</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00180"/>
+        </navPoint>
+        <navPoint id="np-182" playOrder="182">
+          <navLabel>
+            <text>174</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00181"/>
+        </navPoint>
+        <navPoint id="np-183" playOrder="183">
+          <navLabel>
+            <text>175</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00182"/>
+        </navPoint>
+        <navPoint id="np-184" playOrder="184">
+          <navLabel>
+            <text>176</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00183"/>
+        </navPoint>
+        <navPoint id="np-185" playOrder="185">
+          <navLabel>
+            <text>177</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00184"/>
+        </navPoint>
+        <navPoint id="np-186" playOrder="186">
+          <navLabel>
+            <text>178</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00185"/>
+        </navPoint>
+        <navPoint id="np-187" playOrder="187">
+          <navLabel>
+            <text>179</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00186"/>
+        </navPoint>
+        <navPoint id="np-188" playOrder="188">
+          <navLabel>
+            <text>180</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00187"/>
+        </navPoint>
+        <navPoint id="np-189" playOrder="189">
+          <navLabel>
+            <text>181</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00188"/>
+        </navPoint>
+        <navPoint id="np-190" playOrder="190">
+          <navLabel>
+            <text>182</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00189"/>
+        </navPoint>
+        <navPoint id="np-191" playOrder="191">
+          <navLabel>
+            <text>183</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00190"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-192" playOrder="192">
+      <navLabel>
+        <text>SECTION III</text>
+      </navLabel>
+      <content src="18269-h-2.html#pgepubid00191"/>
+      <navPoint id="np-193" playOrder="193">
+        <navLabel>
+          <text>OF THE NECESSITY OF THE WAGER</text>
+        </navLabel>
+        <content src="18269-h-2.html#pgepubid00192"/>
+        <navPoint id="np-194" playOrder="194">
+          <navLabel>
+            <text>184</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00193"/>
+        </navPoint>
+        <navPoint id="np-195" playOrder="195">
+          <navLabel>
+            <text>185</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00194"/>
+        </navPoint>
+        <navPoint id="np-196" playOrder="196">
+          <navLabel>
+            <text>186</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00195"/>
+        </navPoint>
+        <navPoint id="np-197" playOrder="197">
+          <navLabel>
+            <text>187</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00196"/>
+        </navPoint>
+        <navPoint id="np-198" playOrder="198">
+          <navLabel>
+            <text>188</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00197"/>
+        </navPoint>
+        <navPoint id="np-199" playOrder="199">
+          <navLabel>
+            <text>189</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00198"/>
+        </navPoint>
+        <navPoint id="np-200" playOrder="200">
+          <navLabel>
+            <text>190</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00199"/>
+        </navPoint>
+        <navPoint id="np-201" playOrder="201">
+          <navLabel>
+            <text>191</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00200"/>
+        </navPoint>
+        <navPoint id="np-202" playOrder="202">
+          <navLabel>
+            <text>192</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00201"/>
+        </navPoint>
+        <navPoint id="np-203" playOrder="203">
+          <navLabel>
+            <text>193</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00202"/>
+        </navPoint>
+        <navPoint id="np-204" playOrder="204">
+          <navLabel>
+            <text>194</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00203"/>
+        </navPoint>
+        <navPoint id="np-205" playOrder="205">
+          <navLabel>
+            <text>195</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00204"/>
+        </navPoint>
+        <navPoint id="np-206" playOrder="206">
+          <navLabel>
+            <text>196</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00205"/>
+        </navPoint>
+        <navPoint id="np-207" playOrder="207">
+          <navLabel>
+            <text>197</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00206"/>
+        </navPoint>
+        <navPoint id="np-208" playOrder="208">
+          <navLabel>
+            <text>198</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00207"/>
+        </navPoint>
+        <navPoint id="np-209" playOrder="209">
+          <navLabel>
+            <text>199</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00208"/>
+        </navPoint>
+        <navPoint id="np-210" playOrder="210">
+          <navLabel>
+            <text>200</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00209"/>
+        </navPoint>
+        <navPoint id="np-211" playOrder="211">
+          <navLabel>
+            <text>201</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00210"/>
+        </navPoint>
+        <navPoint id="np-212" playOrder="212">
+          <navLabel>
+            <text>202</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00211"/>
+        </navPoint>
+        <navPoint id="np-213" playOrder="213">
+          <navLabel>
+            <text>203</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00212"/>
+        </navPoint>
+        <navPoint id="np-214" playOrder="214">
+          <navLabel>
+            <text>204</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00213"/>
+        </navPoint>
+        <navPoint id="np-215" playOrder="215">
+          <navLabel>
+            <text>205</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00214"/>
+        </navPoint>
+        <navPoint id="np-216" playOrder="216">
+          <navLabel>
+            <text>206</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00215"/>
+        </navPoint>
+        <navPoint id="np-217" playOrder="217">
+          <navLabel>
+            <text>207</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00216"/>
+        </navPoint>
+        <navPoint id="np-218" playOrder="218">
+          <navLabel>
+            <text>208</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00217"/>
+        </navPoint>
+        <navPoint id="np-219" playOrder="219">
+          <navLabel>
+            <text>209</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00218"/>
+        </navPoint>
+        <navPoint id="np-220" playOrder="220">
+          <navLabel>
+            <text>210</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00219"/>
+        </navPoint>
+        <navPoint id="np-221" playOrder="221">
+          <navLabel>
+            <text>211</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00220"/>
+        </navPoint>
+        <navPoint id="np-222" playOrder="222">
+          <navLabel>
+            <text>212</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00221"/>
+        </navPoint>
+        <navPoint id="np-223" playOrder="223">
+          <navLabel>
+            <text>213</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00222"/>
+        </navPoint>
+        <navPoint id="np-224" playOrder="224">
+          <navLabel>
+            <text>214</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00223"/>
+        </navPoint>
+        <navPoint id="np-225" playOrder="225">
+          <navLabel>
+            <text>215</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00224"/>
+        </navPoint>
+        <navPoint id="np-226" playOrder="226">
+          <navLabel>
+            <text>216</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00225"/>
+        </navPoint>
+        <navPoint id="np-227" playOrder="227">
+          <navLabel>
+            <text>217</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00226"/>
+        </navPoint>
+        <navPoint id="np-228" playOrder="228">
+          <navLabel>
+            <text>218</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00227"/>
+        </navPoint>
+        <navPoint id="np-229" playOrder="229">
+          <navLabel>
+            <text>219</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00228"/>
+        </navPoint>
+        <navPoint id="np-230" playOrder="230">
+          <navLabel>
+            <text>220</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00229"/>
+        </navPoint>
+        <navPoint id="np-231" playOrder="231">
+          <navLabel>
+            <text>221</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00230"/>
+        </navPoint>
+        <navPoint id="np-232" playOrder="232">
+          <navLabel>
+            <text>222</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00231"/>
+        </navPoint>
+        <navPoint id="np-233" playOrder="233">
+          <navLabel>
+            <text>223</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00232"/>
+        </navPoint>
+        <navPoint id="np-234" playOrder="234">
+          <navLabel>
+            <text>224</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00233"/>
+        </navPoint>
+        <navPoint id="np-235" playOrder="235">
+          <navLabel>
+            <text>225</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00234"/>
+        </navPoint>
+        <navPoint id="np-236" playOrder="236">
+          <navLabel>
+            <text>226</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00235"/>
+        </navPoint>
+        <navPoint id="np-237" playOrder="237">
+          <navLabel>
+            <text>227</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00236"/>
+        </navPoint>
+        <navPoint id="np-238" playOrder="238">
+          <navLabel>
+            <text>228</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00237"/>
+        </navPoint>
+        <navPoint id="np-239" playOrder="239">
+          <navLabel>
+            <text>229</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00238"/>
+        </navPoint>
+        <navPoint id="np-240" playOrder="240">
+          <navLabel>
+            <text>230</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00239"/>
+        </navPoint>
+        <navPoint id="np-241" playOrder="241">
+          <navLabel>
+            <text>231</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00240"/>
+        </navPoint>
+        <navPoint id="np-242" playOrder="242">
+          <navLabel>
+            <text>232</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00241"/>
+        </navPoint>
+        <navPoint id="np-243" playOrder="243">
+          <navLabel>
+            <text>233</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00242"/>
+        </navPoint>
+        <navPoint id="np-244" playOrder="244">
+          <navLabel>
+            <text>234</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00243"/>
+        </navPoint>
+        <navPoint id="np-245" playOrder="245">
+          <navLabel>
+            <text>235</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00244"/>
+        </navPoint>
+        <navPoint id="np-246" playOrder="246">
+          <navLabel>
+            <text>236</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00245"/>
+        </navPoint>
+        <navPoint id="np-247" playOrder="247">
+          <navLabel>
+            <text>237</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00246"/>
+        </navPoint>
+        <navPoint id="np-248" playOrder="248">
+          <navLabel>
+            <text>238</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00247"/>
+        </navPoint>
+        <navPoint id="np-249" playOrder="249">
+          <navLabel>
+            <text>239</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00248"/>
+        </navPoint>
+        <navPoint id="np-250" playOrder="250">
+          <navLabel>
+            <text>240</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00249"/>
+        </navPoint>
+        <navPoint id="np-251" playOrder="251">
+          <navLabel>
+            <text>241</text>
+          </navLabel>
+          <content src="18269-h-2.html#pgepubid00250"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-252" playOrder="252">
+      <navLabel>
+        <text>SECTION IV</text>
+      </navLabel>
+      <content src="18269-h-3.html#pgepubid00251"/>
+      <navPoint id="np-253" playOrder="253">
+        <navLabel>
+          <text>OF THE MEANS OF BELIEF</text>
+        </navLabel>
+        <content src="18269-h-3.html#pgepubid00252"/>
+        <navPoint id="np-254" playOrder="254">
+          <navLabel>
+            <text>242</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00253"/>
+        </navPoint>
+        <navPoint id="np-255" playOrder="255">
+          <navLabel>
+            <text>243</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00254"/>
+        </navPoint>
+        <navPoint id="np-256" playOrder="256">
+          <navLabel>
+            <text>244</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00255"/>
+        </navPoint>
+        <navPoint id="np-257" playOrder="257">
+          <navLabel>
+            <text>245</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00256"/>
+        </navPoint>
+        <navPoint id="np-258" playOrder="258">
+          <navLabel>
+            <text>246</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00257"/>
+        </navPoint>
+        <navPoint id="np-259" playOrder="259">
+          <navLabel>
+            <text>247</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00258"/>
+        </navPoint>
+        <navPoint id="np-260" playOrder="260">
+          <navLabel>
+            <text>248</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00259"/>
+        </navPoint>
+        <navPoint id="np-261" playOrder="261">
+          <navLabel>
+            <text>249</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00260"/>
+        </navPoint>
+        <navPoint id="np-262" playOrder="262">
+          <navLabel>
+            <text>250</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00261"/>
+        </navPoint>
+        <navPoint id="np-263" playOrder="263">
+          <navLabel>
+            <text>251</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00262"/>
+        </navPoint>
+        <navPoint id="np-264" playOrder="264">
+          <navLabel>
+            <text>252</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00263"/>
+        </navPoint>
+        <navPoint id="np-265" playOrder="265">
+          <navLabel>
+            <text>253</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00264"/>
+        </navPoint>
+        <navPoint id="np-266" playOrder="266">
+          <navLabel>
+            <text>254</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00265"/>
+        </navPoint>
+        <navPoint id="np-267" playOrder="267">
+          <navLabel>
+            <text>255</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00266"/>
+        </navPoint>
+        <navPoint id="np-268" playOrder="268">
+          <navLabel>
+            <text>256</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00267"/>
+        </navPoint>
+        <navPoint id="np-269" playOrder="269">
+          <navLabel>
+            <text>257</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00268"/>
+        </navPoint>
+        <navPoint id="np-270" playOrder="270">
+          <navLabel>
+            <text>258</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00269"/>
+        </navPoint>
+        <navPoint id="np-271" playOrder="271">
+          <navLabel>
+            <text>259</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00270"/>
+        </navPoint>
+        <navPoint id="np-272" playOrder="272">
+          <navLabel>
+            <text>260</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00271"/>
+        </navPoint>
+        <navPoint id="np-273" playOrder="273">
+          <navLabel>
+            <text>261</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00272"/>
+        </navPoint>
+        <navPoint id="np-274" playOrder="274">
+          <navLabel>
+            <text>262</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00273"/>
+        </navPoint>
+        <navPoint id="np-275" playOrder="275">
+          <navLabel>
+            <text>263</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00274"/>
+        </navPoint>
+        <navPoint id="np-276" playOrder="276">
+          <navLabel>
+            <text>264</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00275"/>
+        </navPoint>
+        <navPoint id="np-277" playOrder="277">
+          <navLabel>
+            <text>265</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00276"/>
+        </navPoint>
+        <navPoint id="np-278" playOrder="278">
+          <navLabel>
+            <text>266</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00277"/>
+        </navPoint>
+        <navPoint id="np-279" playOrder="279">
+          <navLabel>
+            <text>267</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00278"/>
+        </navPoint>
+        <navPoint id="np-280" playOrder="280">
+          <navLabel>
+            <text>268</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00279"/>
+        </navPoint>
+        <navPoint id="np-281" playOrder="281">
+          <navLabel>
+            <text>269</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00280"/>
+        </navPoint>
+        <navPoint id="np-282" playOrder="282">
+          <navLabel>
+            <text>270</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00281"/>
+        </navPoint>
+        <navPoint id="np-283" playOrder="283">
+          <navLabel>
+            <text>271</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00282"/>
+        </navPoint>
+        <navPoint id="np-284" playOrder="284">
+          <navLabel>
+            <text>272</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00283"/>
+        </navPoint>
+        <navPoint id="np-285" playOrder="285">
+          <navLabel>
+            <text>273</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00284"/>
+        </navPoint>
+        <navPoint id="np-286" playOrder="286">
+          <navLabel>
+            <text>274</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00285"/>
+        </navPoint>
+        <navPoint id="np-287" playOrder="287">
+          <navLabel>
+            <text>275</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00286"/>
+        </navPoint>
+        <navPoint id="np-288" playOrder="288">
+          <navLabel>
+            <text>276</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00287"/>
+        </navPoint>
+        <navPoint id="np-289" playOrder="289">
+          <navLabel>
+            <text>277</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00288"/>
+        </navPoint>
+        <navPoint id="np-290" playOrder="290">
+          <navLabel>
+            <text>278</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00289"/>
+        </navPoint>
+        <navPoint id="np-291" playOrder="291">
+          <navLabel>
+            <text>279</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00290"/>
+        </navPoint>
+        <navPoint id="np-292" playOrder="292">
+          <navLabel>
+            <text>280</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00291"/>
+        </navPoint>
+        <navPoint id="np-293" playOrder="293">
+          <navLabel>
+            <text>281</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00292"/>
+        </navPoint>
+        <navPoint id="np-294" playOrder="294">
+          <navLabel>
+            <text>282</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00293"/>
+        </navPoint>
+        <navPoint id="np-295" playOrder="295">
+          <navLabel>
+            <text>283</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00294"/>
+        </navPoint>
+        <navPoint id="np-296" playOrder="296">
+          <navLabel>
+            <text>284</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00295"/>
+        </navPoint>
+        <navPoint id="np-297" playOrder="297">
+          <navLabel>
+            <text>285</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00296"/>
+        </navPoint>
+        <navPoint id="np-298" playOrder="298">
+          <navLabel>
+            <text>286</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00297"/>
+        </navPoint>
+        <navPoint id="np-299" playOrder="299">
+          <navLabel>
+            <text>287</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00298"/>
+        </navPoint>
+        <navPoint id="np-300" playOrder="300">
+          <navLabel>
+            <text>288</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00299"/>
+        </navPoint>
+        <navPoint id="np-301" playOrder="301">
+          <navLabel>
+            <text>289</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00300"/>
+        </navPoint>
+        <navPoint id="np-302" playOrder="302">
+          <navLabel>
+            <text>290</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00301"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-303" playOrder="303">
+      <navLabel>
+        <text>SECTION V</text>
+      </navLabel>
+      <content src="18269-h-3.html#pgepubid00302"/>
+      <navPoint id="np-304" playOrder="304">
+        <navLabel>
+          <text>JUSTICE AND THE REASON OF EFFECTS</text>
+        </navLabel>
+        <content src="18269-h-3.html#pgepubid00303"/>
+        <navPoint id="np-305" playOrder="305">
+          <navLabel>
+            <text>291</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00304"/>
+        </navPoint>
+        <navPoint id="np-306" playOrder="306">
+          <navLabel>
+            <text>292</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00305"/>
+        </navPoint>
+        <navPoint id="np-307" playOrder="307">
+          <navLabel>
+            <text>293</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00306"/>
+        </navPoint>
+        <navPoint id="np-308" playOrder="308">
+          <navLabel>
+            <text>294</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00307"/>
+        </navPoint>
+        <navPoint id="np-309" playOrder="309">
+          <navLabel>
+            <text>295</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00308"/>
+        </navPoint>
+        <navPoint id="np-310" playOrder="310">
+          <navLabel>
+            <text>296</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00309"/>
+        </navPoint>
+        <navPoint id="np-311" playOrder="311">
+          <navLabel>
+            <text>297</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00310"/>
+        </navPoint>
+        <navPoint id="np-312" playOrder="312">
+          <navLabel>
+            <text>298</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00311"/>
+        </navPoint>
+        <navPoint id="np-313" playOrder="313">
+          <navLabel>
+            <text>299</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00312"/>
+        </navPoint>
+        <navPoint id="np-314" playOrder="314">
+          <navLabel>
+            <text>300</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00313"/>
+        </navPoint>
+        <navPoint id="np-315" playOrder="315">
+          <navLabel>
+            <text>301</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00314"/>
+        </navPoint>
+        <navPoint id="np-316" playOrder="316">
+          <navLabel>
+            <text>302</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00315"/>
+        </navPoint>
+        <navPoint id="np-317" playOrder="317">
+          <navLabel>
+            <text>303</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00316"/>
+        </navPoint>
+        <navPoint id="np-318" playOrder="318">
+          <navLabel>
+            <text>304</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00317"/>
+        </navPoint>
+        <navPoint id="np-319" playOrder="319">
+          <navLabel>
+            <text>305</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00318"/>
+        </navPoint>
+        <navPoint id="np-320" playOrder="320">
+          <navLabel>
+            <text>306</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00319"/>
+        </navPoint>
+        <navPoint id="np-321" playOrder="321">
+          <navLabel>
+            <text>307</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00320"/>
+        </navPoint>
+        <navPoint id="np-322" playOrder="322">
+          <navLabel>
+            <text>308</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00321"/>
+        </navPoint>
+        <navPoint id="np-323" playOrder="323">
+          <navLabel>
+            <text>309</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00322"/>
+        </navPoint>
+        <navPoint id="np-324" playOrder="324">
+          <navLabel>
+            <text>310</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00323"/>
+        </navPoint>
+        <navPoint id="np-325" playOrder="325">
+          <navLabel>
+            <text>311</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00324"/>
+        </navPoint>
+        <navPoint id="np-326" playOrder="326">
+          <navLabel>
+            <text>312</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00325"/>
+        </navPoint>
+        <navPoint id="np-327" playOrder="327">
+          <navLabel>
+            <text>313</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00326"/>
+        </navPoint>
+        <navPoint id="np-328" playOrder="328">
+          <navLabel>
+            <text>314</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00327"/>
+        </navPoint>
+        <navPoint id="np-329" playOrder="329">
+          <navLabel>
+            <text>315</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00328"/>
+        </navPoint>
+        <navPoint id="np-330" playOrder="330">
+          <navLabel>
+            <text>316</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00329"/>
+        </navPoint>
+        <navPoint id="np-331" playOrder="331">
+          <navLabel>
+            <text>317</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00330"/>
+        </navPoint>
+        <navPoint id="np-332" playOrder="332">
+          <navLabel>
+            <text>318</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00331"/>
+        </navPoint>
+        <navPoint id="np-333" playOrder="333">
+          <navLabel>
+            <text>319</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00332"/>
+        </navPoint>
+        <navPoint id="np-334" playOrder="334">
+          <navLabel>
+            <text>320</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00333"/>
+        </navPoint>
+        <navPoint id="np-335" playOrder="335">
+          <navLabel>
+            <text>321</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00334"/>
+        </navPoint>
+        <navPoint id="np-336" playOrder="336">
+          <navLabel>
+            <text>322</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00335"/>
+        </navPoint>
+        <navPoint id="np-337" playOrder="337">
+          <navLabel>
+            <text>323</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00336"/>
+        </navPoint>
+        <navPoint id="np-338" playOrder="338">
+          <navLabel>
+            <text>324</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00337"/>
+        </navPoint>
+        <navPoint id="np-339" playOrder="339">
+          <navLabel>
+            <text>325</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00338"/>
+        </navPoint>
+        <navPoint id="np-340" playOrder="340">
+          <navLabel>
+            <text>326</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00339"/>
+        </navPoint>
+        <navPoint id="np-341" playOrder="341">
+          <navLabel>
+            <text>327</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00340"/>
+        </navPoint>
+        <navPoint id="np-342" playOrder="342">
+          <navLabel>
+            <text>328</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00341"/>
+        </navPoint>
+        <navPoint id="np-343" playOrder="343">
+          <navLabel>
+            <text>329</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00342"/>
+        </navPoint>
+        <navPoint id="np-344" playOrder="344">
+          <navLabel>
+            <text>330</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00343"/>
+        </navPoint>
+        <navPoint id="np-345" playOrder="345">
+          <navLabel>
+            <text>331</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00344"/>
+        </navPoint>
+        <navPoint id="np-346" playOrder="346">
+          <navLabel>
+            <text>332</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00345"/>
+        </navPoint>
+        <navPoint id="np-347" playOrder="347">
+          <navLabel>
+            <text>333</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00346"/>
+        </navPoint>
+        <navPoint id="np-348" playOrder="348">
+          <navLabel>
+            <text>334</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00347"/>
+        </navPoint>
+        <navPoint id="np-349" playOrder="349">
+          <navLabel>
+            <text>335</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00348"/>
+        </navPoint>
+        <navPoint id="np-350" playOrder="350">
+          <navLabel>
+            <text>336</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00349"/>
+        </navPoint>
+        <navPoint id="np-351" playOrder="351">
+          <navLabel>
+            <text>337</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00350"/>
+        </navPoint>
+        <navPoint id="np-352" playOrder="352">
+          <navLabel>
+            <text>338</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00351"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-353" playOrder="353">
+      <navLabel>
+        <text>SECTION VI</text>
+      </navLabel>
+      <content src="18269-h-3.html#pgepubid00352"/>
+      <navPoint id="np-354" playOrder="354">
+        <navLabel>
+          <text>THE PHILOSOPHERS</text>
+        </navLabel>
+        <content src="18269-h-3.html#pgepubid00353"/>
+        <navPoint id="np-355" playOrder="355">
+          <navLabel>
+            <text>339</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00354"/>
+        </navPoint>
+        <navPoint id="np-356" playOrder="356">
+          <navLabel>
+            <text>340</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00355"/>
+        </navPoint>
+        <navPoint id="np-357" playOrder="357">
+          <navLabel>
+            <text>341</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00356"/>
+        </navPoint>
+        <navPoint id="np-358" playOrder="358">
+          <navLabel>
+            <text>342</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00357"/>
+        </navPoint>
+        <navPoint id="np-359" playOrder="359">
+          <navLabel>
+            <text>343</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00358"/>
+        </navPoint>
+        <navPoint id="np-360" playOrder="360">
+          <navLabel>
+            <text>344</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00359"/>
+        </navPoint>
+        <navPoint id="np-361" playOrder="361">
+          <navLabel>
+            <text>345</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00360"/>
+        </navPoint>
+        <navPoint id="np-362" playOrder="362">
+          <navLabel>
+            <text>346</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00361"/>
+        </navPoint>
+        <navPoint id="np-363" playOrder="363">
+          <navLabel>
+            <text>347</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00362"/>
+        </navPoint>
+        <navPoint id="np-364" playOrder="364">
+          <navLabel>
+            <text>348</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00363"/>
+        </navPoint>
+        <navPoint id="np-365" playOrder="365">
+          <navLabel>
+            <text>349</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00364"/>
+        </navPoint>
+        <navPoint id="np-366" playOrder="366">
+          <navLabel>
+            <text>350</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00365"/>
+        </navPoint>
+        <navPoint id="np-367" playOrder="367">
+          <navLabel>
+            <text>351</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00366"/>
+        </navPoint>
+        <navPoint id="np-368" playOrder="368">
+          <navLabel>
+            <text>352</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00367"/>
+        </navPoint>
+        <navPoint id="np-369" playOrder="369">
+          <navLabel>
+            <text>353</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00368"/>
+        </navPoint>
+        <navPoint id="np-370" playOrder="370">
+          <navLabel>
+            <text>354</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00369"/>
+        </navPoint>
+        <navPoint id="np-371" playOrder="371">
+          <navLabel>
+            <text>355</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00370"/>
+        </navPoint>
+        <navPoint id="np-372" playOrder="372">
+          <navLabel>
+            <text>356</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00371"/>
+        </navPoint>
+        <navPoint id="np-373" playOrder="373">
+          <navLabel>
+            <text>357</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00372"/>
+        </navPoint>
+        <navPoint id="np-374" playOrder="374">
+          <navLabel>
+            <text>358</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00373"/>
+        </navPoint>
+        <navPoint id="np-375" playOrder="375">
+          <navLabel>
+            <text>359</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00374"/>
+        </navPoint>
+        <navPoint id="np-376" playOrder="376">
+          <navLabel>
+            <text>360</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00375"/>
+        </navPoint>
+        <navPoint id="np-377" playOrder="377">
+          <navLabel>
+            <text>361</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00376"/>
+        </navPoint>
+        <navPoint id="np-378" playOrder="378">
+          <navLabel>
+            <text>362</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00377"/>
+        </navPoint>
+        <navPoint id="np-379" playOrder="379">
+          <navLabel>
+            <text>363</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00378"/>
+        </navPoint>
+        <navPoint id="np-380" playOrder="380">
+          <navLabel>
+            <text>364</text>
+          </navLabel>
+          <content src="18269-h-3.html#pgepubid00379"/>
+        </navPoint>
+        <navPoint id="np-381" playOrder="381">
+          <navLabel>
+            <text>365</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00380"/>
+        </navPoint>
+        <navPoint id="np-382" playOrder="382">
+          <navLabel>
+            <text>366</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00381"/>
+        </navPoint>
+        <navPoint id="np-383" playOrder="383">
+          <navLabel>
+            <text>367</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00382"/>
+        </navPoint>
+        <navPoint id="np-384" playOrder="384">
+          <navLabel>
+            <text>368</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00383"/>
+        </navPoint>
+        <navPoint id="np-385" playOrder="385">
+          <navLabel>
+            <text>369</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00384"/>
+        </navPoint>
+        <navPoint id="np-386" playOrder="386">
+          <navLabel>
+            <text>370</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00385"/>
+        </navPoint>
+        <navPoint id="np-387" playOrder="387">
+          <navLabel>
+            <text>371</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00386"/>
+        </navPoint>
+        <navPoint id="np-388" playOrder="388">
+          <navLabel>
+            <text>372</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00387"/>
+        </navPoint>
+        <navPoint id="np-389" playOrder="389">
+          <navLabel>
+            <text>373</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00388"/>
+        </navPoint>
+        <navPoint id="np-390" playOrder="390">
+          <navLabel>
+            <text>374</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00389"/>
+        </navPoint>
+        <navPoint id="np-391" playOrder="391">
+          <navLabel>
+            <text>375</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00390"/>
+        </navPoint>
+        <navPoint id="np-392" playOrder="392">
+          <navLabel>
+            <text>376</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00391"/>
+        </navPoint>
+        <navPoint id="np-393" playOrder="393">
+          <navLabel>
+            <text>377</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00392"/>
+        </navPoint>
+        <navPoint id="np-394" playOrder="394">
+          <navLabel>
+            <text>378</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00393"/>
+        </navPoint>
+        <navPoint id="np-395" playOrder="395">
+          <navLabel>
+            <text>379</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00394"/>
+        </navPoint>
+        <navPoint id="np-396" playOrder="396">
+          <navLabel>
+            <text>380</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00395"/>
+        </navPoint>
+        <navPoint id="np-397" playOrder="397">
+          <navLabel>
+            <text>381</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00396"/>
+        </navPoint>
+        <navPoint id="np-398" playOrder="398">
+          <navLabel>
+            <text>382</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00397"/>
+        </navPoint>
+        <navPoint id="np-399" playOrder="399">
+          <navLabel>
+            <text>383</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00398"/>
+        </navPoint>
+        <navPoint id="np-400" playOrder="400">
+          <navLabel>
+            <text>384</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00399"/>
+        </navPoint>
+        <navPoint id="np-401" playOrder="401">
+          <navLabel>
+            <text>385</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00400"/>
+        </navPoint>
+        <navPoint id="np-402" playOrder="402">
+          <navLabel>
+            <text>386</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00401"/>
+        </navPoint>
+        <navPoint id="np-403" playOrder="403">
+          <navLabel>
+            <text>387</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00402"/>
+        </navPoint>
+        <navPoint id="np-404" playOrder="404">
+          <navLabel>
+            <text>388</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00403"/>
+        </navPoint>
+        <navPoint id="np-405" playOrder="405">
+          <navLabel>
+            <text>389</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00404"/>
+        </navPoint>
+        <navPoint id="np-406" playOrder="406">
+          <navLabel>
+            <text>390</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00405"/>
+        </navPoint>
+        <navPoint id="np-407" playOrder="407">
+          <navLabel>
+            <text>391</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00406"/>
+        </navPoint>
+        <navPoint id="np-408" playOrder="408">
+          <navLabel>
+            <text>392</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00407"/>
+        </navPoint>
+        <navPoint id="np-409" playOrder="409">
+          <navLabel>
+            <text>393</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00408"/>
+        </navPoint>
+        <navPoint id="np-410" playOrder="410">
+          <navLabel>
+            <text>394</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00409"/>
+        </navPoint>
+        <navPoint id="np-411" playOrder="411">
+          <navLabel>
+            <text>395</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00410"/>
+        </navPoint>
+        <navPoint id="np-412" playOrder="412">
+          <navLabel>
+            <text>396</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00411"/>
+        </navPoint>
+        <navPoint id="np-413" playOrder="413">
+          <navLabel>
+            <text>397</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00412"/>
+        </navPoint>
+        <navPoint id="np-414" playOrder="414">
+          <navLabel>
+            <text>398</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00413"/>
+        </navPoint>
+        <navPoint id="np-415" playOrder="415">
+          <navLabel>
+            <text>399</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00414"/>
+        </navPoint>
+        <navPoint id="np-416" playOrder="416">
+          <navLabel>
+            <text>400</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00415"/>
+        </navPoint>
+        <navPoint id="np-417" playOrder="417">
+          <navLabel>
+            <text>401</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00416"/>
+        </navPoint>
+        <navPoint id="np-418" playOrder="418">
+          <navLabel>
+            <text>402</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00417"/>
+        </navPoint>
+        <navPoint id="np-419" playOrder="419">
+          <navLabel>
+            <text>403</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00418"/>
+        </navPoint>
+        <navPoint id="np-420" playOrder="420">
+          <navLabel>
+            <text>404</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00419"/>
+        </navPoint>
+        <navPoint id="np-421" playOrder="421">
+          <navLabel>
+            <text>405</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00420"/>
+        </navPoint>
+        <navPoint id="np-422" playOrder="422">
+          <navLabel>
+            <text>406</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00421"/>
+        </navPoint>
+        <navPoint id="np-423" playOrder="423">
+          <navLabel>
+            <text>407</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00422"/>
+        </navPoint>
+        <navPoint id="np-424" playOrder="424">
+          <navLabel>
+            <text>408</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00423"/>
+        </navPoint>
+        <navPoint id="np-425" playOrder="425">
+          <navLabel>
+            <text>409</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00424"/>
+        </navPoint>
+        <navPoint id="np-426" playOrder="426">
+          <navLabel>
+            <text>410</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00425"/>
+        </navPoint>
+        <navPoint id="np-427" playOrder="427">
+          <navLabel>
+            <text>411</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00426"/>
+        </navPoint>
+        <navPoint id="np-428" playOrder="428">
+          <navLabel>
+            <text>412</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00427"/>
+        </navPoint>
+        <navPoint id="np-429" playOrder="429">
+          <navLabel>
+            <text>413</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00428"/>
+        </navPoint>
+        <navPoint id="np-430" playOrder="430">
+          <navLabel>
+            <text>414</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00429"/>
+        </navPoint>
+        <navPoint id="np-431" playOrder="431">
+          <navLabel>
+            <text>415</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00430"/>
+        </navPoint>
+        <navPoint id="np-432" playOrder="432">
+          <navLabel>
+            <text>416</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00431"/>
+        </navPoint>
+        <navPoint id="np-433" playOrder="433">
+          <navLabel>
+            <text>417</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00432"/>
+        </navPoint>
+        <navPoint id="np-434" playOrder="434">
+          <navLabel>
+            <text>418</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00433"/>
+        </navPoint>
+        <navPoint id="np-435" playOrder="435">
+          <navLabel>
+            <text>419</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00434"/>
+        </navPoint>
+        <navPoint id="np-436" playOrder="436">
+          <navLabel>
+            <text>420</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00435"/>
+        </navPoint>
+        <navPoint id="np-437" playOrder="437">
+          <navLabel>
+            <text>421</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00436"/>
+        </navPoint>
+        <navPoint id="np-438" playOrder="438">
+          <navLabel>
+            <text>422</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00437"/>
+        </navPoint>
+        <navPoint id="np-439" playOrder="439">
+          <navLabel>
+            <text>423</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00438"/>
+        </navPoint>
+        <navPoint id="np-440" playOrder="440">
+          <navLabel>
+            <text>424</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00439"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-441" playOrder="441">
+      <navLabel>
+        <text>SECTION VII</text>
+      </navLabel>
+      <content src="18269-h-4.html#pgepubid00440"/>
+      <navPoint id="np-442" playOrder="442">
+        <navLabel>
+          <text>MORALITY AND DOCTRINE</text>
+        </navLabel>
+        <content src="18269-h-4.html#pgepubid00441"/>
+        <navPoint id="np-443" playOrder="443">
+          <navLabel>
+            <text>425</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00442"/>
+        </navPoint>
+        <navPoint id="np-444" playOrder="444">
+          <navLabel>
+            <text>426</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00443"/>
+        </navPoint>
+        <navPoint id="np-445" playOrder="445">
+          <navLabel>
+            <text>427</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00444"/>
+        </navPoint>
+        <navPoint id="np-446" playOrder="446">
+          <navLabel>
+            <text>428</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00445"/>
+        </navPoint>
+        <navPoint id="np-447" playOrder="447">
+          <navLabel>
+            <text>429</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00446"/>
+        </navPoint>
+        <navPoint id="np-448" playOrder="448">
+          <navLabel>
+            <text>430</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00447"/>
+        </navPoint>
+        <navPoint id="np-449" playOrder="449">
+          <navLabel>
+            <text>431</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00448"/>
+        </navPoint>
+        <navPoint id="np-450" playOrder="450">
+          <navLabel>
+            <text>432</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00449"/>
+        </navPoint>
+        <navPoint id="np-451" playOrder="451">
+          <navLabel>
+            <text>433</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00450"/>
+        </navPoint>
+        <navPoint id="np-452" playOrder="452">
+          <navLabel>
+            <text>434</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00451"/>
+        </navPoint>
+        <navPoint id="np-453" playOrder="453">
+          <navLabel>
+            <text>435</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00452"/>
+        </navPoint>
+        <navPoint id="np-454" playOrder="454">
+          <navLabel>
+            <text>436</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00453"/>
+        </navPoint>
+        <navPoint id="np-455" playOrder="455">
+          <navLabel>
+            <text>437</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00454"/>
+        </navPoint>
+        <navPoint id="np-456" playOrder="456">
+          <navLabel>
+            <text>438</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00455"/>
+        </navPoint>
+        <navPoint id="np-457" playOrder="457">
+          <navLabel>
+            <text>439</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00456"/>
+        </navPoint>
+        <navPoint id="np-458" playOrder="458">
+          <navLabel>
+            <text>440</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00457"/>
+        </navPoint>
+        <navPoint id="np-459" playOrder="459">
+          <navLabel>
+            <text>441</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00458"/>
+        </navPoint>
+        <navPoint id="np-460" playOrder="460">
+          <navLabel>
+            <text>442</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00459"/>
+        </navPoint>
+        <navPoint id="np-461" playOrder="461">
+          <navLabel>
+            <text>443</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00460"/>
+        </navPoint>
+        <navPoint id="np-462" playOrder="462">
+          <navLabel>
+            <text>444</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00461"/>
+        </navPoint>
+        <navPoint id="np-463" playOrder="463">
+          <navLabel>
+            <text>445</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00462"/>
+        </navPoint>
+        <navPoint id="np-464" playOrder="464">
+          <navLabel>
+            <text>446</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00463"/>
+        </navPoint>
+        <navPoint id="np-465" playOrder="465">
+          <navLabel>
+            <text>447</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00464"/>
+        </navPoint>
+        <navPoint id="np-466" playOrder="466">
+          <navLabel>
+            <text>448</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00465"/>
+        </navPoint>
+        <navPoint id="np-467" playOrder="467">
+          <navLabel>
+            <text>449</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00466"/>
+        </navPoint>
+        <navPoint id="np-468" playOrder="468">
+          <navLabel>
+            <text>450</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00467"/>
+        </navPoint>
+        <navPoint id="np-469" playOrder="469">
+          <navLabel>
+            <text>451</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00468"/>
+        </navPoint>
+        <navPoint id="np-470" playOrder="470">
+          <navLabel>
+            <text>452</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00469"/>
+        </navPoint>
+        <navPoint id="np-471" playOrder="471">
+          <navLabel>
+            <text>453</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00470"/>
+        </navPoint>
+        <navPoint id="np-472" playOrder="472">
+          <navLabel>
+            <text>454</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00471"/>
+        </navPoint>
+        <navPoint id="np-473" playOrder="473">
+          <navLabel>
+            <text>455</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00472"/>
+        </navPoint>
+        <navPoint id="np-474" playOrder="474">
+          <navLabel>
+            <text>456</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00473"/>
+        </navPoint>
+        <navPoint id="np-475" playOrder="475">
+          <navLabel>
+            <text>457</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00474"/>
+        </navPoint>
+        <navPoint id="np-476" playOrder="476">
+          <navLabel>
+            <text>458</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00475"/>
+        </navPoint>
+        <navPoint id="np-477" playOrder="477">
+          <navLabel>
+            <text>459</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00476"/>
+        </navPoint>
+        <navPoint id="np-478" playOrder="478">
+          <navLabel>
+            <text>460</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00477"/>
+        </navPoint>
+        <navPoint id="np-479" playOrder="479">
+          <navLabel>
+            <text>461</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00478"/>
+        </navPoint>
+        <navPoint id="np-480" playOrder="480">
+          <navLabel>
+            <text>462</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00479"/>
+        </navPoint>
+        <navPoint id="np-481" playOrder="481">
+          <navLabel>
+            <text>463</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00480"/>
+        </navPoint>
+        <navPoint id="np-482" playOrder="482">
+          <navLabel>
+            <text>464</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00481"/>
+        </navPoint>
+        <navPoint id="np-483" playOrder="483">
+          <navLabel>
+            <text>465</text>
+          </navLabel>
+          <content src="18269-h-4.html#pgepubid00482"/>
+        </navPoint>
+        <navPoint id="np-484" playOrder="484">
+          <navLabel>
+            <text>466</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00483"/>
+        </navPoint>
+        <navPoint id="np-485" playOrder="485">
+          <navLabel>
+            <text>467</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00484"/>
+        </navPoint>
+        <navPoint id="np-486" playOrder="486">
+          <navLabel>
+            <text>468</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00485"/>
+        </navPoint>
+        <navPoint id="np-487" playOrder="487">
+          <navLabel>
+            <text>469</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00486"/>
+        </navPoint>
+        <navPoint id="np-488" playOrder="488">
+          <navLabel>
+            <text>470</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00487"/>
+        </navPoint>
+        <navPoint id="np-489" playOrder="489">
+          <navLabel>
+            <text>471</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00488"/>
+        </navPoint>
+        <navPoint id="np-490" playOrder="490">
+          <navLabel>
+            <text>472</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00489"/>
+        </navPoint>
+        <navPoint id="np-491" playOrder="491">
+          <navLabel>
+            <text>473</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00490"/>
+        </navPoint>
+        <navPoint id="np-492" playOrder="492">
+          <navLabel>
+            <text>474</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00491"/>
+        </navPoint>
+        <navPoint id="np-493" playOrder="493">
+          <navLabel>
+            <text>475</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00492"/>
+        </navPoint>
+        <navPoint id="np-494" playOrder="494">
+          <navLabel>
+            <text>476</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00493"/>
+        </navPoint>
+        <navPoint id="np-495" playOrder="495">
+          <navLabel>
+            <text>477</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00494"/>
+        </navPoint>
+        <navPoint id="np-496" playOrder="496">
+          <navLabel>
+            <text>478</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00495"/>
+        </navPoint>
+        <navPoint id="np-497" playOrder="497">
+          <navLabel>
+            <text>479</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00496"/>
+        </navPoint>
+        <navPoint id="np-498" playOrder="498">
+          <navLabel>
+            <text>480</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00497"/>
+        </navPoint>
+        <navPoint id="np-499" playOrder="499">
+          <navLabel>
+            <text>481</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00498"/>
+        </navPoint>
+        <navPoint id="np-500" playOrder="500">
+          <navLabel>
+            <text>482</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00499"/>
+        </navPoint>
+        <navPoint id="np-501" playOrder="501">
+          <navLabel>
+            <text>483</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00500"/>
+        </navPoint>
+        <navPoint id="np-502" playOrder="502">
+          <navLabel>
+            <text>484</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00501"/>
+        </navPoint>
+        <navPoint id="np-503" playOrder="503">
+          <navLabel>
+            <text>485</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00502"/>
+        </navPoint>
+        <navPoint id="np-504" playOrder="504">
+          <navLabel>
+            <text>486</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00503"/>
+        </navPoint>
+        <navPoint id="np-505" playOrder="505">
+          <navLabel>
+            <text>487</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00504"/>
+        </navPoint>
+        <navPoint id="np-506" playOrder="506">
+          <navLabel>
+            <text>488</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00505"/>
+        </navPoint>
+        <navPoint id="np-507" playOrder="507">
+          <navLabel>
+            <text>489</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00506"/>
+        </navPoint>
+        <navPoint id="np-508" playOrder="508">
+          <navLabel>
+            <text>490</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00507"/>
+        </navPoint>
+        <navPoint id="np-509" playOrder="509">
+          <navLabel>
+            <text>491</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00508"/>
+        </navPoint>
+        <navPoint id="np-510" playOrder="510">
+          <navLabel>
+            <text>492</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00509"/>
+        </navPoint>
+        <navPoint id="np-511" playOrder="511">
+          <navLabel>
+            <text>493</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00510"/>
+        </navPoint>
+        <navPoint id="np-512" playOrder="512">
+          <navLabel>
+            <text>494</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00511"/>
+        </navPoint>
+        <navPoint id="np-513" playOrder="513">
+          <navLabel>
+            <text>495</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00512"/>
+        </navPoint>
+        <navPoint id="np-514" playOrder="514">
+          <navLabel>
+            <text>496</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00513"/>
+        </navPoint>
+        <navPoint id="np-515" playOrder="515">
+          <navLabel>
+            <text>497</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00514"/>
+        </navPoint>
+        <navPoint id="np-516" playOrder="516">
+          <navLabel>
+            <text>498</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00515"/>
+        </navPoint>
+        <navPoint id="np-517" playOrder="517">
+          <navLabel>
+            <text>499</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00516"/>
+        </navPoint>
+        <navPoint id="np-518" playOrder="518">
+          <navLabel>
+            <text>500</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00517"/>
+        </navPoint>
+        <navPoint id="np-519" playOrder="519">
+          <navLabel>
+            <text>501</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00518"/>
+        </navPoint>
+        <navPoint id="np-520" playOrder="520">
+          <navLabel>
+            <text>502</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00519"/>
+        </navPoint>
+        <navPoint id="np-521" playOrder="521">
+          <navLabel>
+            <text>503</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00520"/>
+        </navPoint>
+        <navPoint id="np-522" playOrder="522">
+          <navLabel>
+            <text>504</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00521"/>
+        </navPoint>
+        <navPoint id="np-523" playOrder="523">
+          <navLabel>
+            <text>505</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00522"/>
+        </navPoint>
+        <navPoint id="np-524" playOrder="524">
+          <navLabel>
+            <text>506</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00523"/>
+        </navPoint>
+        <navPoint id="np-525" playOrder="525">
+          <navLabel>
+            <text>507</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00524"/>
+        </navPoint>
+        <navPoint id="np-526" playOrder="526">
+          <navLabel>
+            <text>508</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00525"/>
+        </navPoint>
+        <navPoint id="np-527" playOrder="527">
+          <navLabel>
+            <text>509</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00526"/>
+        </navPoint>
+        <navPoint id="np-528" playOrder="528">
+          <navLabel>
+            <text>510</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00527"/>
+        </navPoint>
+        <navPoint id="np-529" playOrder="529">
+          <navLabel>
+            <text>511</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00528"/>
+        </navPoint>
+        <navPoint id="np-530" playOrder="530">
+          <navLabel>
+            <text>512</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00529"/>
+        </navPoint>
+        <navPoint id="np-531" playOrder="531">
+          <navLabel>
+            <text>513</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00530"/>
+        </navPoint>
+        <navPoint id="np-532" playOrder="532">
+          <navLabel>
+            <text>514</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00531"/>
+        </navPoint>
+        <navPoint id="np-533" playOrder="533">
+          <navLabel>
+            <text>515</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00532"/>
+        </navPoint>
+        <navPoint id="np-534" playOrder="534">
+          <navLabel>
+            <text>516</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00533"/>
+        </navPoint>
+        <navPoint id="np-535" playOrder="535">
+          <navLabel>
+            <text>517</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00534"/>
+        </navPoint>
+        <navPoint id="np-536" playOrder="536">
+          <navLabel>
+            <text>518</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00535"/>
+        </navPoint>
+        <navPoint id="np-537" playOrder="537">
+          <navLabel>
+            <text>519</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00536"/>
+        </navPoint>
+        <navPoint id="np-538" playOrder="538">
+          <navLabel>
+            <text>520</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00537"/>
+        </navPoint>
+        <navPoint id="np-539" playOrder="539">
+          <navLabel>
+            <text>521</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00538"/>
+        </navPoint>
+        <navPoint id="np-540" playOrder="540">
+          <navLabel>
+            <text>522</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00539"/>
+        </navPoint>
+        <navPoint id="np-541" playOrder="541">
+          <navLabel>
+            <text>523</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00540"/>
+        </navPoint>
+        <navPoint id="np-542" playOrder="542">
+          <navLabel>
+            <text>524</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00541"/>
+        </navPoint>
+        <navPoint id="np-543" playOrder="543">
+          <navLabel>
+            <text>525</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00542"/>
+        </navPoint>
+        <navPoint id="np-544" playOrder="544">
+          <navLabel>
+            <text>526</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00543"/>
+        </navPoint>
+        <navPoint id="np-545" playOrder="545">
+          <navLabel>
+            <text>527</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00544"/>
+        </navPoint>
+        <navPoint id="np-546" playOrder="546">
+          <navLabel>
+            <text>528</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00545"/>
+        </navPoint>
+        <navPoint id="np-547" playOrder="547">
+          <navLabel>
+            <text>529</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00546"/>
+        </navPoint>
+        <navPoint id="np-548" playOrder="548">
+          <navLabel>
+            <text>530</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00547"/>
+        </navPoint>
+        <navPoint id="np-549" playOrder="549">
+          <navLabel>
+            <text>531</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00548"/>
+        </navPoint>
+        <navPoint id="np-550" playOrder="550">
+          <navLabel>
+            <text>532</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00549"/>
+        </navPoint>
+        <navPoint id="np-551" playOrder="551">
+          <navLabel>
+            <text>533</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00550"/>
+        </navPoint>
+        <navPoint id="np-552" playOrder="552">
+          <navLabel>
+            <text>534</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00551"/>
+        </navPoint>
+        <navPoint id="np-553" playOrder="553">
+          <navLabel>
+            <text>535</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00552"/>
+        </navPoint>
+        <navPoint id="np-554" playOrder="554">
+          <navLabel>
+            <text>536</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00553"/>
+        </navPoint>
+        <navPoint id="np-555" playOrder="555">
+          <navLabel>
+            <text>537</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00554"/>
+        </navPoint>
+        <navPoint id="np-556" playOrder="556">
+          <navLabel>
+            <text>538</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00555"/>
+        </navPoint>
+        <navPoint id="np-557" playOrder="557">
+          <navLabel>
+            <text>539</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00556"/>
+        </navPoint>
+        <navPoint id="np-558" playOrder="558">
+          <navLabel>
+            <text>540</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00557"/>
+        </navPoint>
+        <navPoint id="np-559" playOrder="559">
+          <navLabel>
+            <text>541</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00558"/>
+        </navPoint>
+        <navPoint id="np-560" playOrder="560">
+          <navLabel>
+            <text>542</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00559"/>
+        </navPoint>
+        <navPoint id="np-561" playOrder="561">
+          <navLabel>
+            <text>543</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00560"/>
+        </navPoint>
+        <navPoint id="np-562" playOrder="562">
+          <navLabel>
+            <text>544</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00561"/>
+        </navPoint>
+        <navPoint id="np-563" playOrder="563">
+          <navLabel>
+            <text>545</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00562"/>
+        </navPoint>
+        <navPoint id="np-564" playOrder="564">
+          <navLabel>
+            <text>546</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00563"/>
+        </navPoint>
+        <navPoint id="np-565" playOrder="565">
+          <navLabel>
+            <text>547</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00564"/>
+        </navPoint>
+        <navPoint id="np-566" playOrder="566">
+          <navLabel>
+            <text>548</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00565"/>
+        </navPoint>
+        <navPoint id="np-567" playOrder="567">
+          <navLabel>
+            <text>549</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00566"/>
+        </navPoint>
+        <navPoint id="np-568" playOrder="568">
+          <navLabel>
+            <text>550</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00567"/>
+        </navPoint>
+        <navPoint id="np-569" playOrder="569">
+          <navLabel>
+            <text>551</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00568"/>
+        </navPoint>
+        <navPoint id="np-570" playOrder="570">
+          <navLabel>
+            <text>552</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00569"/>
+        </navPoint>
+        <navPoint id="np-571" playOrder="571">
+          <navLabel>
+            <text>553</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00570"/>
+        </navPoint>
+        <navPoint id="np-572" playOrder="572">
+          <navLabel>
+            <text>554</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00571"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-573" playOrder="573">
+      <navLabel>
+        <text>SECTION VIII</text>
+      </navLabel>
+      <content src="18269-h-5.html#pgepubid00572"/>
+      <navPoint id="np-574" playOrder="574">
+        <navLabel>
+          <text>THE FUNDAMENTALS OF THE CHRISTIAN RELIGION</text>
+        </navLabel>
+        <content src="18269-h-5.html#pgepubid00573"/>
+        <navPoint id="np-575" playOrder="575">
+          <navLabel>
+            <text>555</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00574"/>
+        </navPoint>
+        <navPoint id="np-576" playOrder="576">
+          <navLabel>
+            <text>556</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00575"/>
+        </navPoint>
+        <navPoint id="np-577" playOrder="577">
+          <navLabel>
+            <text>557</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00576"/>
+        </navPoint>
+        <navPoint id="np-578" playOrder="578">
+          <navLabel>
+            <text>558</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00577"/>
+        </navPoint>
+        <navPoint id="np-579" playOrder="579">
+          <navLabel>
+            <text>559</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00578"/>
+        </navPoint>
+        <navPoint id="np-580" playOrder="580">
+          <navLabel>
+            <text>560</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00579"/>
+        </navPoint>
+        <navPoint id="np-581" playOrder="581">
+          <navLabel>
+            <text>561</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00580"/>
+        </navPoint>
+        <navPoint id="np-582" playOrder="582">
+          <navLabel>
+            <text>562</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00581"/>
+        </navPoint>
+        <navPoint id="np-583" playOrder="583">
+          <navLabel>
+            <text>563</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00582"/>
+        </navPoint>
+        <navPoint id="np-584" playOrder="584">
+          <navLabel>
+            <text>564</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00583"/>
+        </navPoint>
+        <navPoint id="np-585" playOrder="585">
+          <navLabel>
+            <text>565</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00584"/>
+        </navPoint>
+        <navPoint id="np-586" playOrder="586">
+          <navLabel>
+            <text>566</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00585"/>
+        </navPoint>
+        <navPoint id="np-587" playOrder="587">
+          <navLabel>
+            <text>567</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00586"/>
+        </navPoint>
+        <navPoint id="np-588" playOrder="588">
+          <navLabel>
+            <text>568</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00587"/>
+        </navPoint>
+        <navPoint id="np-589" playOrder="589">
+          <navLabel>
+            <text>569</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00588"/>
+        </navPoint>
+        <navPoint id="np-590" playOrder="590">
+          <navLabel>
+            <text>570</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00589"/>
+        </navPoint>
+        <navPoint id="np-591" playOrder="591">
+          <navLabel>
+            <text>571</text>
+          </navLabel>
+          <content src="18269-h-5.html#pgepubid00590"/>
+        </navPoint>
+        <navPoint id="np-592" playOrder="592">
+          <navLabel>
+            <text>572</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00591"/>
+        </navPoint>
+        <navPoint id="np-593" playOrder="593">
+          <navLabel>
+            <text>573</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00592"/>
+        </navPoint>
+        <navPoint id="np-594" playOrder="594">
+          <navLabel>
+            <text>574</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00593"/>
+        </navPoint>
+        <navPoint id="np-595" playOrder="595">
+          <navLabel>
+            <text>575</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00594"/>
+        </navPoint>
+        <navPoint id="np-596" playOrder="596">
+          <navLabel>
+            <text>576</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00595"/>
+        </navPoint>
+        <navPoint id="np-597" playOrder="597">
+          <navLabel>
+            <text>577</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00596"/>
+        </navPoint>
+        <navPoint id="np-598" playOrder="598">
+          <navLabel>
+            <text>578</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00597"/>
+        </navPoint>
+        <navPoint id="np-599" playOrder="599">
+          <navLabel>
+            <text>579</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00598"/>
+        </navPoint>
+        <navPoint id="np-600" playOrder="600">
+          <navLabel>
+            <text>580</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00599"/>
+        </navPoint>
+        <navPoint id="np-601" playOrder="601">
+          <navLabel>
+            <text>581</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00600"/>
+        </navPoint>
+        <navPoint id="np-602" playOrder="602">
+          <navLabel>
+            <text>582</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00601"/>
+        </navPoint>
+        <navPoint id="np-603" playOrder="603">
+          <navLabel>
+            <text>583</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00602"/>
+        </navPoint>
+        <navPoint id="np-604" playOrder="604">
+          <navLabel>
+            <text>584</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00603"/>
+        </navPoint>
+        <navPoint id="np-605" playOrder="605">
+          <navLabel>
+            <text>585</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00604"/>
+        </navPoint>
+        <navPoint id="np-606" playOrder="606">
+          <navLabel>
+            <text>586</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00605"/>
+        </navPoint>
+        <navPoint id="np-607" playOrder="607">
+          <navLabel>
+            <text>587</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00606"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-608" playOrder="608">
+      <navLabel>
+        <text>SECTION IX</text>
+      </navLabel>
+      <content src="18269-h-6.html#pgepubid00607"/>
+      <navPoint id="np-609" playOrder="609">
+        <navLabel>
+          <text>PERPETUITY</text>
+        </navLabel>
+        <content src="18269-h-6.html#pgepubid00608"/>
+        <navPoint id="np-610" playOrder="610">
+          <navLabel>
+            <text>588</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00609"/>
+        </navPoint>
+        <navPoint id="np-611" playOrder="611">
+          <navLabel>
+            <text>589</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00610"/>
+        </navPoint>
+        <navPoint id="np-612" playOrder="612">
+          <navLabel>
+            <text>590</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00611"/>
+        </navPoint>
+        <navPoint id="np-613" playOrder="613">
+          <navLabel>
+            <text>591</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00612"/>
+        </navPoint>
+        <navPoint id="np-614" playOrder="614">
+          <navLabel>
+            <text>592</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00613"/>
+        </navPoint>
+        <navPoint id="np-615" playOrder="615">
+          <navLabel>
+            <text>593</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00614"/>
+        </navPoint>
+        <navPoint id="np-616" playOrder="616">
+          <navLabel>
+            <text>594</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00615"/>
+        </navPoint>
+        <navPoint id="np-617" playOrder="617">
+          <navLabel>
+            <text>595</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00616"/>
+        </navPoint>
+        <navPoint id="np-618" playOrder="618">
+          <navLabel>
+            <text>596</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00617"/>
+        </navPoint>
+        <navPoint id="np-619" playOrder="619">
+          <navLabel>
+            <text>597</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00618"/>
+        </navPoint>
+        <navPoint id="np-620" playOrder="620">
+          <navLabel>
+            <text>598</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00619"/>
+        </navPoint>
+        <navPoint id="np-621" playOrder="621">
+          <navLabel>
+            <text>599</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00620"/>
+        </navPoint>
+        <navPoint id="np-622" playOrder="622">
+          <navLabel>
+            <text>600</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00621"/>
+        </navPoint>
+        <navPoint id="np-623" playOrder="623">
+          <navLabel>
+            <text>601</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00622"/>
+        </navPoint>
+        <navPoint id="np-624" playOrder="624">
+          <navLabel>
+            <text>602</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00623"/>
+        </navPoint>
+        <navPoint id="np-625" playOrder="625">
+          <navLabel>
+            <text>603</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00624"/>
+        </navPoint>
+        <navPoint id="np-626" playOrder="626">
+          <navLabel>
+            <text>604</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00625"/>
+        </navPoint>
+        <navPoint id="np-627" playOrder="627">
+          <navLabel>
+            <text>605</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00626"/>
+        </navPoint>
+        <navPoint id="np-628" playOrder="628">
+          <navLabel>
+            <text>606</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00627"/>
+        </navPoint>
+        <navPoint id="np-629" playOrder="629">
+          <navLabel>
+            <text>607</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00628"/>
+        </navPoint>
+        <navPoint id="np-630" playOrder="630">
+          <navLabel>
+            <text>608</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00629"/>
+        </navPoint>
+        <navPoint id="np-631" playOrder="631">
+          <navLabel>
+            <text>609</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00630"/>
+        </navPoint>
+        <navPoint id="np-632" playOrder="632">
+          <navLabel>
+            <text>610</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00631"/>
+        </navPoint>
+        <navPoint id="np-633" playOrder="633">
+          <navLabel>
+            <text>611</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00632"/>
+        </navPoint>
+        <navPoint id="np-634" playOrder="634">
+          <navLabel>
+            <text>612</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00633"/>
+        </navPoint>
+        <navPoint id="np-635" playOrder="635">
+          <navLabel>
+            <text>613</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00634"/>
+        </navPoint>
+        <navPoint id="np-636" playOrder="636">
+          <navLabel>
+            <text>614</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00635"/>
+        </navPoint>
+        <navPoint id="np-637" playOrder="637">
+          <navLabel>
+            <text>615</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00636"/>
+        </navPoint>
+        <navPoint id="np-638" playOrder="638">
+          <navLabel>
+            <text>616</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00637"/>
+        </navPoint>
+        <navPoint id="np-639" playOrder="639">
+          <navLabel>
+            <text>617</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00638"/>
+        </navPoint>
+        <navPoint id="np-640" playOrder="640">
+          <navLabel>
+            <text>618</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00639"/>
+        </navPoint>
+        <navPoint id="np-641" playOrder="641">
+          <navLabel>
+            <text>619</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00640"/>
+        </navPoint>
+        <navPoint id="np-642" playOrder="642">
+          <navLabel>
+            <text>620</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00641"/>
+        </navPoint>
+        <navPoint id="np-643" playOrder="643">
+          <navLabel>
+            <text>621</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00642"/>
+        </navPoint>
+        <navPoint id="np-644" playOrder="644">
+          <navLabel>
+            <text>622</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00643"/>
+        </navPoint>
+        <navPoint id="np-645" playOrder="645">
+          <navLabel>
+            <text>623</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00644"/>
+        </navPoint>
+        <navPoint id="np-646" playOrder="646">
+          <navLabel>
+            <text>624</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00645"/>
+        </navPoint>
+        <navPoint id="np-647" playOrder="647">
+          <navLabel>
+            <text>625</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00646"/>
+        </navPoint>
+        <navPoint id="np-648" playOrder="648">
+          <navLabel>
+            <text>626</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00647"/>
+        </navPoint>
+        <navPoint id="np-649" playOrder="649">
+          <navLabel>
+            <text>627</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00648"/>
+        </navPoint>
+        <navPoint id="np-650" playOrder="650">
+          <navLabel>
+            <text>628</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00649"/>
+        </navPoint>
+        <navPoint id="np-651" playOrder="651">
+          <navLabel>
+            <text>629</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00650"/>
+        </navPoint>
+        <navPoint id="np-652" playOrder="652">
+          <navLabel>
+            <text>630</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00651"/>
+        </navPoint>
+        <navPoint id="np-653" playOrder="653">
+          <navLabel>
+            <text>631</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00652"/>
+        </navPoint>
+        <navPoint id="np-654" playOrder="654">
+          <navLabel>
+            <text>632</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00653"/>
+        </navPoint>
+        <navPoint id="np-655" playOrder="655">
+          <navLabel>
+            <text>633</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00654"/>
+        </navPoint>
+        <navPoint id="np-656" playOrder="656">
+          <navLabel>
+            <text>634</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00655"/>
+        </navPoint>
+        <navPoint id="np-657" playOrder="657">
+          <navLabel>
+            <text>635</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00656"/>
+        </navPoint>
+        <navPoint id="np-658" playOrder="658">
+          <navLabel>
+            <text>636</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00657"/>
+        </navPoint>
+        <navPoint id="np-659" playOrder="659">
+          <navLabel>
+            <text>637</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00658"/>
+        </navPoint>
+        <navPoint id="np-660" playOrder="660">
+          <navLabel>
+            <text>638</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00659"/>
+        </navPoint>
+        <navPoint id="np-661" playOrder="661">
+          <navLabel>
+            <text>639</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00660"/>
+        </navPoint>
+        <navPoint id="np-662" playOrder="662">
+          <navLabel>
+            <text>640</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00661"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-663" playOrder="663">
+      <navLabel>
+        <text>SECTION X</text>
+      </navLabel>
+      <content src="18269-h-6.html#pgepubid00662"/>
+      <navPoint id="np-664" playOrder="664">
+        <navLabel>
+          <text>TYPOLOGY</text>
+        </navLabel>
+        <content src="18269-h-6.html#pgepubid00663"/>
+        <navPoint id="np-665" playOrder="665">
+          <navLabel>
+            <text>641</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00664"/>
+        </navPoint>
+        <navPoint id="np-666" playOrder="666">
+          <navLabel>
+            <text>642</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00665"/>
+        </navPoint>
+        <navPoint id="np-667" playOrder="667">
+          <navLabel>
+            <text>643</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00666"/>
+        </navPoint>
+        <navPoint id="np-668" playOrder="668">
+          <navLabel>
+            <text>644</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00667"/>
+        </navPoint>
+        <navPoint id="np-669" playOrder="669">
+          <navLabel>
+            <text>645</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00668"/>
+        </navPoint>
+        <navPoint id="np-670" playOrder="670">
+          <navLabel>
+            <text>646</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00669"/>
+        </navPoint>
+        <navPoint id="np-671" playOrder="671">
+          <navLabel>
+            <text>647</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00670"/>
+        </navPoint>
+        <navPoint id="np-672" playOrder="672">
+          <navLabel>
+            <text>648</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00671"/>
+        </navPoint>
+        <navPoint id="np-673" playOrder="673">
+          <navLabel>
+            <text>649</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00672"/>
+        </navPoint>
+        <navPoint id="np-674" playOrder="674">
+          <navLabel>
+            <text>650</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00673"/>
+        </navPoint>
+        <navPoint id="np-675" playOrder="675">
+          <navLabel>
+            <text>651</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00674"/>
+        </navPoint>
+        <navPoint id="np-676" playOrder="676">
+          <navLabel>
+            <text>652</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00675"/>
+        </navPoint>
+        <navPoint id="np-677" playOrder="677">
+          <navLabel>
+            <text>653</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00676"/>
+        </navPoint>
+        <navPoint id="np-678" playOrder="678">
+          <navLabel>
+            <text>654</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00677"/>
+        </navPoint>
+        <navPoint id="np-679" playOrder="679">
+          <navLabel>
+            <text>655</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00678"/>
+        </navPoint>
+        <navPoint id="np-680" playOrder="680">
+          <navLabel>
+            <text>656</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00679"/>
+        </navPoint>
+        <navPoint id="np-681" playOrder="681">
+          <navLabel>
+            <text>657</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00680"/>
+        </navPoint>
+        <navPoint id="np-682" playOrder="682">
+          <navLabel>
+            <text>658</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00681"/>
+        </navPoint>
+        <navPoint id="np-683" playOrder="683">
+          <navLabel>
+            <text>659</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00682"/>
+        </navPoint>
+        <navPoint id="np-684" playOrder="684">
+          <navLabel>
+            <text>660</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00683"/>
+        </navPoint>
+        <navPoint id="np-685" playOrder="685">
+          <navLabel>
+            <text>661</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00684"/>
+        </navPoint>
+        <navPoint id="np-686" playOrder="686">
+          <navLabel>
+            <text>662</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00685"/>
+        </navPoint>
+        <navPoint id="np-687" playOrder="687">
+          <navLabel>
+            <text>663</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00686"/>
+        </navPoint>
+        <navPoint id="np-688" playOrder="688">
+          <navLabel>
+            <text>664</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00687"/>
+        </navPoint>
+        <navPoint id="np-689" playOrder="689">
+          <navLabel>
+            <text>665</text>
+          </navLabel>
+          <content src="18269-h-6.html#pgepubid00688"/>
+        </navPoint>
+        <navPoint id="np-690" playOrder="690">
+          <navLabel>
+            <text>666</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00689"/>
+        </navPoint>
+        <navPoint id="np-691" playOrder="691">
+          <navLabel>
+            <text>667</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00690"/>
+        </navPoint>
+        <navPoint id="np-692" playOrder="692">
+          <navLabel>
+            <text>668</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00691"/>
+        </navPoint>
+        <navPoint id="np-693" playOrder="693">
+          <navLabel>
+            <text>669</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00692"/>
+        </navPoint>
+        <navPoint id="np-694" playOrder="694">
+          <navLabel>
+            <text>670</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00693"/>
+        </navPoint>
+        <navPoint id="np-695" playOrder="695">
+          <navLabel>
+            <text>671</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00694"/>
+        </navPoint>
+        <navPoint id="np-696" playOrder="696">
+          <navLabel>
+            <text>672</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00695"/>
+        </navPoint>
+        <navPoint id="np-697" playOrder="697">
+          <navLabel>
+            <text>673</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00696"/>
+        </navPoint>
+        <navPoint id="np-698" playOrder="698">
+          <navLabel>
+            <text>674</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00697"/>
+        </navPoint>
+        <navPoint id="np-699" playOrder="699">
+          <navLabel>
+            <text>675</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00698"/>
+        </navPoint>
+        <navPoint id="np-700" playOrder="700">
+          <navLabel>
+            <text>676</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00699"/>
+        </navPoint>
+        <navPoint id="np-701" playOrder="701">
+          <navLabel>
+            <text>677</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00700"/>
+        </navPoint>
+        <navPoint id="np-702" playOrder="702">
+          <navLabel>
+            <text>678</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00701"/>
+        </navPoint>
+        <navPoint id="np-703" playOrder="703">
+          <navLabel>
+            <text>679</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00702"/>
+        </navPoint>
+        <navPoint id="np-704" playOrder="704">
+          <navLabel>
+            <text>680</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00703"/>
+        </navPoint>
+        <navPoint id="np-705" playOrder="705">
+          <navLabel>
+            <text>681</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00704"/>
+        </navPoint>
+        <navPoint id="np-706" playOrder="706">
+          <navLabel>
+            <text>682</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00705"/>
+        </navPoint>
+        <navPoint id="np-707" playOrder="707">
+          <navLabel>
+            <text>683</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00706"/>
+        </navPoint>
+        <navPoint id="np-708" playOrder="708">
+          <navLabel>
+            <text>684</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00707"/>
+        </navPoint>
+        <navPoint id="np-709" playOrder="709">
+          <navLabel>
+            <text>685</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00708"/>
+        </navPoint>
+        <navPoint id="np-710" playOrder="710">
+          <navLabel>
+            <text>686</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00709"/>
+        </navPoint>
+        <navPoint id="np-711" playOrder="711">
+          <navLabel>
+            <text>687</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00710"/>
+        </navPoint>
+        <navPoint id="np-712" playOrder="712">
+          <navLabel>
+            <text>688</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00711"/>
+        </navPoint>
+        <navPoint id="np-713" playOrder="713">
+          <navLabel>
+            <text>689</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00712"/>
+        </navPoint>
+        <navPoint id="np-714" playOrder="714">
+          <navLabel>
+            <text>690</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00713"/>
+        </navPoint>
+        <navPoint id="np-715" playOrder="715">
+          <navLabel>
+            <text>691</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00714"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-716" playOrder="716">
+      <navLabel>
+        <text>SECTION XI</text>
+      </navLabel>
+      <content src="18269-h-7.html#pgepubid00715"/>
+      <navPoint id="np-717" playOrder="717">
+        <navLabel>
+          <text>THE PROPHECIES</text>
+        </navLabel>
+        <content src="18269-h-7.html#pgepubid00716"/>
+        <navPoint id="np-718" playOrder="718">
+          <navLabel>
+            <text>692</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00717"/>
+        </navPoint>
+        <navPoint id="np-719" playOrder="719">
+          <navLabel>
+            <text>693</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00718"/>
+        </navPoint>
+        <navPoint id="np-720" playOrder="720">
+          <navLabel>
+            <text>694</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00719"/>
+        </navPoint>
+        <navPoint id="np-721" playOrder="721">
+          <navLabel>
+            <text>695</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00720"/>
+        </navPoint>
+        <navPoint id="np-722" playOrder="722">
+          <navLabel>
+            <text>696</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00721"/>
+        </navPoint>
+        <navPoint id="np-723" playOrder="723">
+          <navLabel>
+            <text>697</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00722"/>
+        </navPoint>
+        <navPoint id="np-724" playOrder="724">
+          <navLabel>
+            <text>698</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00723"/>
+        </navPoint>
+        <navPoint id="np-725" playOrder="725">
+          <navLabel>
+            <text>699</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00724"/>
+        </navPoint>
+        <navPoint id="np-726" playOrder="726">
+          <navLabel>
+            <text>700</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00725"/>
+        </navPoint>
+        <navPoint id="np-727" playOrder="727">
+          <navLabel>
+            <text>701</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00726"/>
+        </navPoint>
+        <navPoint id="np-728" playOrder="728">
+          <navLabel>
+            <text>702</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00727"/>
+        </navPoint>
+        <navPoint id="np-729" playOrder="729">
+          <navLabel>
+            <text>703</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00728"/>
+        </navPoint>
+        <navPoint id="np-730" playOrder="730">
+          <navLabel>
+            <text>704</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00729"/>
+        </navPoint>
+        <navPoint id="np-731" playOrder="731">
+          <navLabel>
+            <text>705</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00730"/>
+        </navPoint>
+        <navPoint id="np-732" playOrder="732">
+          <navLabel>
+            <text>706</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00731"/>
+        </navPoint>
+        <navPoint id="np-733" playOrder="733">
+          <navLabel>
+            <text>707</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00732"/>
+        </navPoint>
+        <navPoint id="np-734" playOrder="734">
+          <navLabel>
+            <text>708</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00733"/>
+        </navPoint>
+        <navPoint id="np-735" playOrder="735">
+          <navLabel>
+            <text>709</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00734"/>
+        </navPoint>
+        <navPoint id="np-736" playOrder="736">
+          <navLabel>
+            <text>710</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00735"/>
+        </navPoint>
+        <navPoint id="np-737" playOrder="737">
+          <navLabel>
+            <text>711</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00736"/>
+        </navPoint>
+        <navPoint id="np-738" playOrder="738">
+          <navLabel>
+            <text>712</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00737"/>
+        </navPoint>
+        <navPoint id="np-739" playOrder="739">
+          <navLabel>
+            <text>713</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00738"/>
+        </navPoint>
+        <navPoint id="np-740" playOrder="740">
+          <navLabel>
+            <text>714</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00739"/>
+        </navPoint>
+        <navPoint id="np-741" playOrder="741">
+          <navLabel>
+            <text>715</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00740"/>
+        </navPoint>
+        <navPoint id="np-742" playOrder="742">
+          <navLabel>
+            <text>716</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00741"/>
+        </navPoint>
+        <navPoint id="np-743" playOrder="743">
+          <navLabel>
+            <text>717</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00742"/>
+        </navPoint>
+        <navPoint id="np-744" playOrder="744">
+          <navLabel>
+            <text>718</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00743"/>
+        </navPoint>
+        <navPoint id="np-745" playOrder="745">
+          <navLabel>
+            <text>719</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00744"/>
+        </navPoint>
+        <navPoint id="np-746" playOrder="746">
+          <navLabel>
+            <text>720</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00745"/>
+        </navPoint>
+        <navPoint id="np-747" playOrder="747">
+          <navLabel>
+            <text>721</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00746"/>
+        </navPoint>
+        <navPoint id="np-748" playOrder="748">
+          <navLabel>
+            <text>722</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00747"/>
+        </navPoint>
+        <navPoint id="np-749" playOrder="749">
+          <navLabel>
+            <text>723</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00748"/>
+        </navPoint>
+        <navPoint id="np-750" playOrder="750">
+          <navLabel>
+            <text>724</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00749"/>
+        </navPoint>
+        <navPoint id="np-751" playOrder="751">
+          <navLabel>
+            <text>725</text>
+          </navLabel>
+          <content src="18269-h-7.html#pgepubid00750"/>
+        </navPoint>
+        <navPoint id="np-752" playOrder="752">
+          <navLabel>
+            <text>726</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00751"/>
+        </navPoint>
+        <navPoint id="np-753" playOrder="753">
+          <navLabel>
+            <text>727</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00752"/>
+        </navPoint>
+        <navPoint id="np-754" playOrder="754">
+          <navLabel>
+            <text>728</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00753"/>
+        </navPoint>
+        <navPoint id="np-755" playOrder="755">
+          <navLabel>
+            <text>729</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00754"/>
+        </navPoint>
+        <navPoint id="np-756" playOrder="756">
+          <navLabel>
+            <text>730</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00755"/>
+        </navPoint>
+        <navPoint id="np-757" playOrder="757">
+          <navLabel>
+            <text>731</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00756"/>
+        </navPoint>
+        <navPoint id="np-758" playOrder="758">
+          <navLabel>
+            <text>732</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00757"/>
+        </navPoint>
+        <navPoint id="np-759" playOrder="759">
+          <navLabel>
+            <text>733</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00758"/>
+        </navPoint>
+        <navPoint id="np-760" playOrder="760">
+          <navLabel>
+            <text>734</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00759"/>
+        </navPoint>
+        <navPoint id="np-761" playOrder="761">
+          <navLabel>
+            <text>735</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00760"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-762" playOrder="762">
+      <navLabel>
+        <text>SECTION XII</text>
+      </navLabel>
+      <content src="18269-h-8.html#pgepubid00761"/>
+      <navPoint id="np-763" playOrder="763">
+        <navLabel>
+          <text>PROOFS OF JESUS CHRIST</text>
+        </navLabel>
+        <content src="18269-h-8.html#pgepubid00762"/>
+        <navPoint id="np-764" playOrder="764">
+          <navLabel>
+            <text>736</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00763"/>
+        </navPoint>
+        <navPoint id="np-765" playOrder="765">
+          <navLabel>
+            <text>737</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00764"/>
+        </navPoint>
+        <navPoint id="np-766" playOrder="766">
+          <navLabel>
+            <text>738</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00765"/>
+        </navPoint>
+        <navPoint id="np-767" playOrder="767">
+          <navLabel>
+            <text>739</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00766"/>
+        </navPoint>
+        <navPoint id="np-768" playOrder="768">
+          <navLabel>
+            <text>740</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00767"/>
+        </navPoint>
+        <navPoint id="np-769" playOrder="769">
+          <navLabel>
+            <text>741</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00768"/>
+        </navPoint>
+        <navPoint id="np-770" playOrder="770">
+          <navLabel>
+            <text>742</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00769"/>
+        </navPoint>
+        <navPoint id="np-771" playOrder="771">
+          <navLabel>
+            <text>743</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00770"/>
+        </navPoint>
+        <navPoint id="np-772" playOrder="772">
+          <navLabel>
+            <text>744</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00771"/>
+        </navPoint>
+        <navPoint id="np-773" playOrder="773">
+          <navLabel>
+            <text>745</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00772"/>
+        </navPoint>
+        <navPoint id="np-774" playOrder="774">
+          <navLabel>
+            <text>746</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00773"/>
+        </navPoint>
+        <navPoint id="np-775" playOrder="775">
+          <navLabel>
+            <text>747</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00774"/>
+        </navPoint>
+        <navPoint id="np-776" playOrder="776">
+          <navLabel>
+            <text>748</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00775"/>
+        </navPoint>
+        <navPoint id="np-777" playOrder="777">
+          <navLabel>
+            <text>749</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00776"/>
+        </navPoint>
+        <navPoint id="np-778" playOrder="778">
+          <navLabel>
+            <text>750</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00777"/>
+        </navPoint>
+        <navPoint id="np-779" playOrder="779">
+          <navLabel>
+            <text>751</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00778"/>
+        </navPoint>
+        <navPoint id="np-780" playOrder="780">
+          <navLabel>
+            <text>752</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00779"/>
+        </navPoint>
+        <navPoint id="np-781" playOrder="781">
+          <navLabel>
+            <text>753</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00780"/>
+        </navPoint>
+        <navPoint id="np-782" playOrder="782">
+          <navLabel>
+            <text>754</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00781"/>
+        </navPoint>
+        <navPoint id="np-783" playOrder="783">
+          <navLabel>
+            <text>755</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00782"/>
+        </navPoint>
+        <navPoint id="np-784" playOrder="784">
+          <navLabel>
+            <text>756</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00783"/>
+        </navPoint>
+        <navPoint id="np-785" playOrder="785">
+          <navLabel>
+            <text>757</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00784"/>
+        </navPoint>
+        <navPoint id="np-786" playOrder="786">
+          <navLabel>
+            <text>758</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00785"/>
+        </navPoint>
+        <navPoint id="np-787" playOrder="787">
+          <navLabel>
+            <text>759</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00786"/>
+        </navPoint>
+        <navPoint id="np-788" playOrder="788">
+          <navLabel>
+            <text>760</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00787"/>
+        </navPoint>
+        <navPoint id="np-789" playOrder="789">
+          <navLabel>
+            <text>761</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00788"/>
+        </navPoint>
+        <navPoint id="np-790" playOrder="790">
+          <navLabel>
+            <text>762</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00789"/>
+        </navPoint>
+        <navPoint id="np-791" playOrder="791">
+          <navLabel>
+            <text>763</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00790"/>
+        </navPoint>
+        <navPoint id="np-792" playOrder="792">
+          <navLabel>
+            <text>764</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00791"/>
+        </navPoint>
+        <navPoint id="np-793" playOrder="793">
+          <navLabel>
+            <text>765</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00792"/>
+        </navPoint>
+        <navPoint id="np-794" playOrder="794">
+          <navLabel>
+            <text>766</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00793"/>
+        </navPoint>
+        <navPoint id="np-795" playOrder="795">
+          <navLabel>
+            <text>767</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00794"/>
+        </navPoint>
+        <navPoint id="np-796" playOrder="796">
+          <navLabel>
+            <text>768</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00795"/>
+        </navPoint>
+        <navPoint id="np-797" playOrder="797">
+          <navLabel>
+            <text>769</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00796"/>
+        </navPoint>
+        <navPoint id="np-798" playOrder="798">
+          <navLabel>
+            <text>770</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00797"/>
+        </navPoint>
+        <navPoint id="np-799" playOrder="799">
+          <navLabel>
+            <text>771</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00798"/>
+        </navPoint>
+        <navPoint id="np-800" playOrder="800">
+          <navLabel>
+            <text>772</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00799"/>
+        </navPoint>
+        <navPoint id="np-801" playOrder="801">
+          <navLabel>
+            <text>773</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00800"/>
+        </navPoint>
+        <navPoint id="np-802" playOrder="802">
+          <navLabel>
+            <text>774</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00801"/>
+        </navPoint>
+        <navPoint id="np-803" playOrder="803">
+          <navLabel>
+            <text>775</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00802"/>
+        </navPoint>
+        <navPoint id="np-804" playOrder="804">
+          <navLabel>
+            <text>776</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00803"/>
+        </navPoint>
+        <navPoint id="np-805" playOrder="805">
+          <navLabel>
+            <text>777</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00804"/>
+        </navPoint>
+        <navPoint id="np-806" playOrder="806">
+          <navLabel>
+            <text>778</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00805"/>
+        </navPoint>
+        <navPoint id="np-807" playOrder="807">
+          <navLabel>
+            <text>779</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00806"/>
+        </navPoint>
+        <navPoint id="np-808" playOrder="808">
+          <navLabel>
+            <text>780</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00807"/>
+        </navPoint>
+        <navPoint id="np-809" playOrder="809">
+          <navLabel>
+            <text>781</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00808"/>
+        </navPoint>
+        <navPoint id="np-810" playOrder="810">
+          <navLabel>
+            <text>782</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00809"/>
+        </navPoint>
+        <navPoint id="np-811" playOrder="811">
+          <navLabel>
+            <text>783</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00810"/>
+        </navPoint>
+        <navPoint id="np-812" playOrder="812">
+          <navLabel>
+            <text>784</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00811"/>
+        </navPoint>
+        <navPoint id="np-813" playOrder="813">
+          <navLabel>
+            <text>785</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00812"/>
+        </navPoint>
+        <navPoint id="np-814" playOrder="814">
+          <navLabel>
+            <text>786</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00813"/>
+        </navPoint>
+        <navPoint id="np-815" playOrder="815">
+          <navLabel>
+            <text>787</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00814"/>
+        </navPoint>
+        <navPoint id="np-816" playOrder="816">
+          <navLabel>
+            <text>788</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00815"/>
+        </navPoint>
+        <navPoint id="np-817" playOrder="817">
+          <navLabel>
+            <text>789</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00816"/>
+        </navPoint>
+        <navPoint id="np-818" playOrder="818">
+          <navLabel>
+            <text>790</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00817"/>
+        </navPoint>
+        <navPoint id="np-819" playOrder="819">
+          <navLabel>
+            <text>791</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00818"/>
+        </navPoint>
+        <navPoint id="np-820" playOrder="820">
+          <navLabel>
+            <text>792</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00819"/>
+        </navPoint>
+        <navPoint id="np-821" playOrder="821">
+          <navLabel>
+            <text>793</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00820"/>
+        </navPoint>
+        <navPoint id="np-822" playOrder="822">
+          <navLabel>
+            <text>794</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00821"/>
+        </navPoint>
+        <navPoint id="np-823" playOrder="823">
+          <navLabel>
+            <text>795</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00822"/>
+        </navPoint>
+        <navPoint id="np-824" playOrder="824">
+          <navLabel>
+            <text>796</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00823"/>
+        </navPoint>
+        <navPoint id="np-825" playOrder="825">
+          <navLabel>
+            <text>797</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00824"/>
+        </navPoint>
+        <navPoint id="np-826" playOrder="826">
+          <navLabel>
+            <text>798</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00825"/>
+        </navPoint>
+        <navPoint id="np-827" playOrder="827">
+          <navLabel>
+            <text>799</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00826"/>
+        </navPoint>
+        <navPoint id="np-828" playOrder="828">
+          <navLabel>
+            <text>800</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00827"/>
+        </navPoint>
+        <navPoint id="np-829" playOrder="829">
+          <navLabel>
+            <text>801</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00828"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-830" playOrder="830">
+      <navLabel>
+        <text>SECTION XIII</text>
+      </navLabel>
+      <content src="18269-h-8.html#pgepubid00829"/>
+      <navPoint id="np-831" playOrder="831">
+        <navLabel>
+          <text>THE MIRACLES</text>
+        </navLabel>
+        <content src="18269-h-8.html#pgepubid00830"/>
+        <navPoint id="np-832" playOrder="832">
+          <navLabel>
+            <text>802</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00831"/>
+        </navPoint>
+        <navPoint id="np-833" playOrder="833">
+          <navLabel>
+            <text>803</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00832"/>
+        </navPoint>
+        <navPoint id="np-834" playOrder="834">
+          <navLabel>
+            <text>804</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00833"/>
+        </navPoint>
+        <navPoint id="np-835" playOrder="835">
+          <navLabel>
+            <text>805</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00834"/>
+        </navPoint>
+        <navPoint id="np-836" playOrder="836">
+          <navLabel>
+            <text>806</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00835"/>
+        </navPoint>
+        <navPoint id="np-837" playOrder="837">
+          <navLabel>
+            <text>807</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00836"/>
+        </navPoint>
+        <navPoint id="np-838" playOrder="838">
+          <navLabel>
+            <text>808</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00837"/>
+        </navPoint>
+        <navPoint id="np-839" playOrder="839">
+          <navLabel>
+            <text>809</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00838"/>
+        </navPoint>
+        <navPoint id="np-840" playOrder="840">
+          <navLabel>
+            <text>810</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00839"/>
+        </navPoint>
+        <navPoint id="np-841" playOrder="841">
+          <navLabel>
+            <text>811</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00840"/>
+        </navPoint>
+        <navPoint id="np-842" playOrder="842">
+          <navLabel>
+            <text>812</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00841"/>
+        </navPoint>
+        <navPoint id="np-843" playOrder="843">
+          <navLabel>
+            <text>813</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00842"/>
+        </navPoint>
+        <navPoint id="np-844" playOrder="844">
+          <navLabel>
+            <text>814</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00843"/>
+        </navPoint>
+        <navPoint id="np-845" playOrder="845">
+          <navLabel>
+            <text>815</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00844"/>
+        </navPoint>
+        <navPoint id="np-846" playOrder="846">
+          <navLabel>
+            <text>816</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00845"/>
+        </navPoint>
+        <navPoint id="np-847" playOrder="847">
+          <navLabel>
+            <text>817</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00846"/>
+        </navPoint>
+        <navPoint id="np-848" playOrder="848">
+          <navLabel>
+            <text>818</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00847"/>
+        </navPoint>
+        <navPoint id="np-849" playOrder="849">
+          <navLabel>
+            <text>819</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00848"/>
+        </navPoint>
+        <navPoint id="np-850" playOrder="850">
+          <navLabel>
+            <text>820</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00849"/>
+        </navPoint>
+        <navPoint id="np-851" playOrder="851">
+          <navLabel>
+            <text>821</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00850"/>
+        </navPoint>
+        <navPoint id="np-852" playOrder="852">
+          <navLabel>
+            <text>822</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00851"/>
+        </navPoint>
+        <navPoint id="np-853" playOrder="853">
+          <navLabel>
+            <text>823</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00852"/>
+        </navPoint>
+        <navPoint id="np-854" playOrder="854">
+          <navLabel>
+            <text>824</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00853"/>
+        </navPoint>
+        <navPoint id="np-855" playOrder="855">
+          <navLabel>
+            <text>825</text>
+          </navLabel>
+          <content src="18269-h-8.html#pgepubid00854"/>
+        </navPoint>
+        <navPoint id="np-856" playOrder="856">
+          <navLabel>
+            <text>826</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00855"/>
+        </navPoint>
+        <navPoint id="np-857" playOrder="857">
+          <navLabel>
+            <text>827</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00856"/>
+        </navPoint>
+        <navPoint id="np-858" playOrder="858">
+          <navLabel>
+            <text>828</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00857"/>
+        </navPoint>
+        <navPoint id="np-859" playOrder="859">
+          <navLabel>
+            <text>829</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00858"/>
+        </navPoint>
+        <navPoint id="np-860" playOrder="860">
+          <navLabel>
+            <text>830</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00859"/>
+        </navPoint>
+        <navPoint id="np-861" playOrder="861">
+          <navLabel>
+            <text>831</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00860"/>
+        </navPoint>
+        <navPoint id="np-862" playOrder="862">
+          <navLabel>
+            <text>832</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00861"/>
+        </navPoint>
+        <navPoint id="np-863" playOrder="863">
+          <navLabel>
+            <text>833</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00862"/>
+        </navPoint>
+        <navPoint id="np-864" playOrder="864">
+          <navLabel>
+            <text>834</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00863"/>
+        </navPoint>
+        <navPoint id="np-865" playOrder="865">
+          <navLabel>
+            <text>835</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00864"/>
+        </navPoint>
+        <navPoint id="np-866" playOrder="866">
+          <navLabel>
+            <text>836</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00865"/>
+        </navPoint>
+        <navPoint id="np-867" playOrder="867">
+          <navLabel>
+            <text>837</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00866"/>
+        </navPoint>
+        <navPoint id="np-868" playOrder="868">
+          <navLabel>
+            <text>838</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00867"/>
+        </navPoint>
+        <navPoint id="np-869" playOrder="869">
+          <navLabel>
+            <text>839</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00868"/>
+        </navPoint>
+        <navPoint id="np-870" playOrder="870">
+          <navLabel>
+            <text>840</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00869"/>
+        </navPoint>
+        <navPoint id="np-871" playOrder="871">
+          <navLabel>
+            <text>841</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00870"/>
+        </navPoint>
+        <navPoint id="np-872" playOrder="872">
+          <navLabel>
+            <text>842</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00871"/>
+        </navPoint>
+        <navPoint id="np-873" playOrder="873">
+          <navLabel>
+            <text>843</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00872"/>
+        </navPoint>
+        <navPoint id="np-874" playOrder="874">
+          <navLabel>
+            <text>844</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00873"/>
+        </navPoint>
+        <navPoint id="np-875" playOrder="875">
+          <navLabel>
+            <text>845</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00874"/>
+        </navPoint>
+        <navPoint id="np-876" playOrder="876">
+          <navLabel>
+            <text>846</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00875"/>
+        </navPoint>
+        <navPoint id="np-877" playOrder="877">
+          <navLabel>
+            <text>847</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00876"/>
+        </navPoint>
+        <navPoint id="np-878" playOrder="878">
+          <navLabel>
+            <text>848</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00877"/>
+        </navPoint>
+        <navPoint id="np-879" playOrder="879">
+          <navLabel>
+            <text>849</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00878"/>
+        </navPoint>
+        <navPoint id="np-880" playOrder="880">
+          <navLabel>
+            <text>850</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00879"/>
+        </navPoint>
+        <navPoint id="np-881" playOrder="881">
+          <navLabel>
+            <text>851</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00880"/>
+        </navPoint>
+        <navPoint id="np-882" playOrder="882">
+          <navLabel>
+            <text>852</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00881"/>
+        </navPoint>
+        <navPoint id="np-883" playOrder="883">
+          <navLabel>
+            <text>853</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00882"/>
+        </navPoint>
+        <navPoint id="np-884" playOrder="884">
+          <navLabel>
+            <text>854</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00883"/>
+        </navPoint>
+        <navPoint id="np-885" playOrder="885">
+          <navLabel>
+            <text>855</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00884"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-886" playOrder="886">
+      <navLabel>
+        <text>SECTION XIV</text>
+      </navLabel>
+      <content src="18269-h-9.html#pgepubid00885"/>
+      <navPoint id="np-887" playOrder="887">
+        <navLabel>
+          <text>APPENDIX: POLEMICAL FRAGMENTS</text>
+        </navLabel>
+        <content src="18269-h-9.html#pgepubid00886"/>
+        <navPoint id="np-888" playOrder="888">
+          <navLabel>
+            <text>856</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00887"/>
+        </navPoint>
+        <navPoint id="np-889" playOrder="889">
+          <navLabel>
+            <text>857</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00888"/>
+        </navPoint>
+        <navPoint id="np-890" playOrder="890">
+          <navLabel>
+            <text>858</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00889"/>
+        </navPoint>
+        <navPoint id="np-891" playOrder="891">
+          <navLabel>
+            <text>859</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00890"/>
+        </navPoint>
+        <navPoint id="np-892" playOrder="892">
+          <navLabel>
+            <text>860</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00891"/>
+        </navPoint>
+        <navPoint id="np-893" playOrder="893">
+          <navLabel>
+            <text>861</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00892"/>
+        </navPoint>
+        <navPoint id="np-894" playOrder="894">
+          <navLabel>
+            <text>862</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00893"/>
+        </navPoint>
+        <navPoint id="np-895" playOrder="895">
+          <navLabel>
+            <text>863</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00894"/>
+        </navPoint>
+        <navPoint id="np-896" playOrder="896">
+          <navLabel>
+            <text>864</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00895"/>
+        </navPoint>
+        <navPoint id="np-897" playOrder="897">
+          <navLabel>
+            <text>865</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00896"/>
+        </navPoint>
+        <navPoint id="np-898" playOrder="898">
+          <navLabel>
+            <text>866</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00897"/>
+        </navPoint>
+        <navPoint id="np-899" playOrder="899">
+          <navLabel>
+            <text>867</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00898"/>
+        </navPoint>
+        <navPoint id="np-900" playOrder="900">
+          <navLabel>
+            <text>868</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00899"/>
+        </navPoint>
+        <navPoint id="np-901" playOrder="901">
+          <navLabel>
+            <text>869</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00900"/>
+        </navPoint>
+        <navPoint id="np-902" playOrder="902">
+          <navLabel>
+            <text>870</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00901"/>
+        </navPoint>
+        <navPoint id="np-903" playOrder="903">
+          <navLabel>
+            <text>871</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00902"/>
+        </navPoint>
+        <navPoint id="np-904" playOrder="904">
+          <navLabel>
+            <text>872</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00903"/>
+        </navPoint>
+        <navPoint id="np-905" playOrder="905">
+          <navLabel>
+            <text>873</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00904"/>
+        </navPoint>
+        <navPoint id="np-906" playOrder="906">
+          <navLabel>
+            <text>874</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00905"/>
+        </navPoint>
+        <navPoint id="np-907" playOrder="907">
+          <navLabel>
+            <text>875</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00906"/>
+        </navPoint>
+        <navPoint id="np-908" playOrder="908">
+          <navLabel>
+            <text>876</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00907"/>
+        </navPoint>
+        <navPoint id="np-909" playOrder="909">
+          <navLabel>
+            <text>877</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00908"/>
+        </navPoint>
+        <navPoint id="np-910" playOrder="910">
+          <navLabel>
+            <text>878</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00909"/>
+        </navPoint>
+        <navPoint id="np-911" playOrder="911">
+          <navLabel>
+            <text>879</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00910"/>
+        </navPoint>
+        <navPoint id="np-912" playOrder="912">
+          <navLabel>
+            <text>880</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00911"/>
+        </navPoint>
+        <navPoint id="np-913" playOrder="913">
+          <navLabel>
+            <text>881</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00912"/>
+        </navPoint>
+        <navPoint id="np-914" playOrder="914">
+          <navLabel>
+            <text>882</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00913"/>
+        </navPoint>
+        <navPoint id="np-915" playOrder="915">
+          <navLabel>
+            <text>883</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00914"/>
+        </navPoint>
+        <navPoint id="np-916" playOrder="916">
+          <navLabel>
+            <text>884</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00915"/>
+        </navPoint>
+        <navPoint id="np-917" playOrder="917">
+          <navLabel>
+            <text>885</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00916"/>
+        </navPoint>
+        <navPoint id="np-918" playOrder="918">
+          <navLabel>
+            <text>886</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00917"/>
+        </navPoint>
+        <navPoint id="np-919" playOrder="919">
+          <navLabel>
+            <text>887</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00918"/>
+        </navPoint>
+        <navPoint id="np-920" playOrder="920">
+          <navLabel>
+            <text>888</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00919"/>
+        </navPoint>
+        <navPoint id="np-921" playOrder="921">
+          <navLabel>
+            <text>889</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00920"/>
+        </navPoint>
+        <navPoint id="np-922" playOrder="922">
+          <navLabel>
+            <text>890</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00921"/>
+        </navPoint>
+        <navPoint id="np-923" playOrder="923">
+          <navLabel>
+            <text>891</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00922"/>
+        </navPoint>
+        <navPoint id="np-924" playOrder="924">
+          <navLabel>
+            <text>892</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00923"/>
+        </navPoint>
+        <navPoint id="np-925" playOrder="925">
+          <navLabel>
+            <text>893</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00924"/>
+        </navPoint>
+        <navPoint id="np-926" playOrder="926">
+          <navLabel>
+            <text>894</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00925"/>
+        </navPoint>
+        <navPoint id="np-927" playOrder="927">
+          <navLabel>
+            <text>895</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00926"/>
+        </navPoint>
+        <navPoint id="np-928" playOrder="928">
+          <navLabel>
+            <text>896</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00927"/>
+        </navPoint>
+        <navPoint id="np-929" playOrder="929">
+          <navLabel>
+            <text>897</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00928"/>
+        </navPoint>
+        <navPoint id="np-930" playOrder="930">
+          <navLabel>
+            <text>898</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00929"/>
+        </navPoint>
+        <navPoint id="np-931" playOrder="931">
+          <navLabel>
+            <text>899</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00930"/>
+        </navPoint>
+        <navPoint id="np-932" playOrder="932">
+          <navLabel>
+            <text>900</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00931"/>
+        </navPoint>
+        <navPoint id="np-933" playOrder="933">
+          <navLabel>
+            <text>901</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00932"/>
+        </navPoint>
+        <navPoint id="np-934" playOrder="934">
+          <navLabel>
+            <text>902</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00933"/>
+        </navPoint>
+        <navPoint id="np-935" playOrder="935">
+          <navLabel>
+            <text>903</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00934"/>
+        </navPoint>
+        <navPoint id="np-936" playOrder="936">
+          <navLabel>
+            <text>904</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00935"/>
+        </navPoint>
+        <navPoint id="np-937" playOrder="937">
+          <navLabel>
+            <text>905</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00936"/>
+        </navPoint>
+        <navPoint id="np-938" playOrder="938">
+          <navLabel>
+            <text>906</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00937"/>
+        </navPoint>
+        <navPoint id="np-939" playOrder="939">
+          <navLabel>
+            <text>907</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00938"/>
+        </navPoint>
+        <navPoint id="np-940" playOrder="940">
+          <navLabel>
+            <text>908</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00939"/>
+        </navPoint>
+        <navPoint id="np-941" playOrder="941">
+          <navLabel>
+            <text>909</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00940"/>
+        </navPoint>
+        <navPoint id="np-942" playOrder="942">
+          <navLabel>
+            <text>910</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00941"/>
+        </navPoint>
+        <navPoint id="np-943" playOrder="943">
+          <navLabel>
+            <text>911</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00942"/>
+        </navPoint>
+        <navPoint id="np-944" playOrder="944">
+          <navLabel>
+            <text>912</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00943"/>
+        </navPoint>
+        <navPoint id="np-945" playOrder="945">
+          <navLabel>
+            <text>913</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00944"/>
+        </navPoint>
+        <navPoint id="np-946" playOrder="946">
+          <navLabel>
+            <text>914</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00945"/>
+        </navPoint>
+        <navPoint id="np-947" playOrder="947">
+          <navLabel>
+            <text>915</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00946"/>
+        </navPoint>
+        <navPoint id="np-948" playOrder="948">
+          <navLabel>
+            <text>916</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00947"/>
+        </navPoint>
+        <navPoint id="np-949" playOrder="949">
+          <navLabel>
+            <text>917</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00948"/>
+        </navPoint>
+        <navPoint id="np-950" playOrder="950">
+          <navLabel>
+            <text>918</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00949"/>
+        </navPoint>
+        <navPoint id="np-951" playOrder="951">
+          <navLabel>
+            <text>919</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00950"/>
+        </navPoint>
+        <navPoint id="np-952" playOrder="952">
+          <navLabel>
+            <text>920</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00951"/>
+        </navPoint>
+        <navPoint id="np-953" playOrder="953">
+          <navLabel>
+            <text>921</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00952"/>
+        </navPoint>
+        <navPoint id="np-954" playOrder="954">
+          <navLabel>
+            <text>922</text>
+          </navLabel>
+          <content src="18269-h-9.html#pgepubid00953"/>
+        </navPoint>
+        <navPoint id="np-955" playOrder="955">
+          <navLabel>
+            <text>923</text>
+          </navLabel>
+          <content src="18269-h-10.html#pgepubid00954"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-956" playOrder="956">
+      <navLabel>
+        <text>NOTES</text>
+      </navLabel>
+      <content src="18269-h-10.html#pgepubid00955"/>
+    </navPoint>
+    <navPoint id="np-957" playOrder="957">
+      <navLabel>
+        <text>INDEX</text>
+      </navLabel>
+      <content src="18269-h-12.html#pgepubid00956"/>
+    </navPoint>
+    <navPoint id="np-958" playOrder="958">
+      <navLabel>
+        <text>Transcriber's Notes</text>
+      </navLabel>
+      <content src="18269-h-15.html#pgepubid00957"/>
+    </navPoint>
+  </navMap>
+</ncx>

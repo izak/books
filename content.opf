@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/18269</dc:identifier>
+    <dc:creator opf:file-as="Pascal, Blaise">Blaise Pascal</dc:creator>
+    <dc:contributor opf:file-as="Eliot, T. S. (Thomas Stearns)" opf:role="aui">T. S. Eliot</dc:contributor>
+    <dc:title>Pascal's Pensées</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:subject>Philosophy</dc:subject>
+    <dc:subject>Apologetics</dc:subject>
+    <dc:date opf:event="publication">2006-04-27</dc:date>
+    <dc:date opf:event="conversion">2013-03-13T12:23:24.855179+00:00</dc:date>
+    <dc:source>http://www.gutenberg.orgfiles/18269/18269-h/18269-h.htm</dc:source>
+  </metadata>
+  <manifest>
+    <item href="pgepub.css" id="item1" media-type="text/css"/>
+    <item href="0.css" id="item2" media-type="text/css"/>
+    <item href="1.css" id="item3" media-type="text/css"/>
+    <!--Chunk: size=78004 Split on h2-->
+    <item href="18269-h-0.html" id="item4" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82242 Split on p-->
+    <item href="18269-h-1.html" id="item5" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=80885 Split on h2-->
+    <item href="18269-h-2.html" id="item6" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82095 Split on p-->
+    <item href="18269-h-3.html" id="item7" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=81930 Split on p-->
+    <item href="18269-h-4.html" id="item8" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82485 Split on p-->
+    <item href="18269-h-5.html" id="item9" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82198 Split on p-->
+    <item href="18269-h-6.html" id="item10" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82818 Split on p-->
+    <item href="18269-h-7.html" id="item11" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82066 Split on p-->
+    <item href="18269-h-8.html" id="item12" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=82203 Split on p-->
+    <item href="18269-h-9.html" id="item13" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=51282 Split on div-->
+    <item href="18269-h-10.html" id="item14" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=51457 Split on div-->
+    <item href="18269-h-11.html" id="item15" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=38620 Split on div.blockquot-->
+    <item href="18269-h-12.html" id="item16" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=102119 Split on span.c4-->
+    <item href="18269-h-13.html" id="Page_292" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=100689-->
+    <item href="18269-h-14.html" id="item17" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=24417-->
+    <item href="18269-h-15.html" id="item18" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="item4" linear="yes"/>
+    <itemref idref="item5" linear="yes"/>
+    <itemref idref="item6" linear="yes"/>
+    <itemref idref="item7" linear="yes"/>
+    <itemref idref="item8" linear="yes"/>
+    <itemref idref="item9" linear="yes"/>
+    <itemref idref="item10" linear="yes"/>
+    <itemref idref="item11" linear="yes"/>
+    <itemref idref="item12" linear="yes"/>
+    <itemref idref="item13" linear="yes"/>
+    <itemref idref="item14" linear="yes"/>
+    <itemref idref="item15" linear="yes"/>
+    <itemref idref="item16" linear="yes"/>
+    <itemref idref="Page_292" linear="yes"/>
+    <itemref idref="item17" linear="yes"/>
+    <itemref idref="item18" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="18269-h-0.html#pgepubid00003" type="toc" title="CONTENTS"/>
+  </guide>
+</package>

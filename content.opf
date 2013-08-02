@@ -18,37 +18,22 @@
     <item href="pgepub.css" id="item1" media-type="text/css"/>
     <item href="0.css" id="item2" media-type="text/css"/>
     <item href="1.css" id="item3" media-type="text/css"/>
-    <!--Chunk: size=78004 Split on h2-->
+    <item href="toc.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="18269-h-0.html" id="item4" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=82242 Split on p-->
     <item href="18269-h-1.html" id="item5" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=80885 Split on h2-->
     <item href="18269-h-2.html" id="item6" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=82095 Split on p-->
     <item href="18269-h-3.html" id="item7" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=81930 Split on p-->
     <item href="18269-h-4.html" id="item8" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=82485 Split on p-->
     <item href="18269-h-5.html" id="item9" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=82198 Split on p-->
     <item href="18269-h-6.html" id="item10" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=82818 Split on p-->
     <item href="18269-h-7.html" id="item11" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=82066 Split on p-->
     <item href="18269-h-8.html" id="item12" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=82203 Split on p-->
     <item href="18269-h-9.html" id="item13" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=51282 Split on div-->
     <item href="18269-h-10.html" id="item14" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=51457 Split on div-->
     <item href="18269-h-11.html" id="item15" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=38620 Split on div.blockquot-->
     <item href="18269-h-12.html" id="item16" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=102119 Split on span.c4-->
     <item href="18269-h-13.html" id="Page_292" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=100689-->
     <item href="18269-h-14.html" id="item17" media-type="application/xhtml+xml"/>
-    <!--Chunk: size=24417-->
     <item href="18269-h-15.html" id="item18" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="world.png" id="world" media-type="image/png"/>

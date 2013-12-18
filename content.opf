@@ -36,7 +36,6 @@
     <item href="18269-h-14.html" id="item17" media-type="application/xhtml+xml"/>
     <item href="18269-h-15.html" id="item18" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-    <item href="world.png" id="world" media-type="image/png"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="item4" linear="yes"/>
